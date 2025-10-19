@@ -13,7 +13,8 @@
       "Bash(python compare_sources.py)",
       "Bash(python analyze_sources.py)",
       "Bash(python create_final_db.py)",
-      "WebFetch(domain:gout-food-checker.netlify.app)"
+      "WebFetch(domain:gout-food-checker.netlify.app)",
+      "Bash(git add -A)"
     ],
     "deny": [],
     "ask": []

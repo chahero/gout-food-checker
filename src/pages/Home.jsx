@@ -1,6 +1,5 @@
 import React, { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
-import { FixedSizeList as List } from "react-window";
 import db from "../data/purine_db.json";
 
 const GROUP_ORDER = ["식물성", "버섯/해조", "동물성", "수산물", "양념/보충"];
@@ -16,27 +15,6 @@ function RiskPill({ v }) {
   const risk = classifyRisk(v);
   const cls = risk === "high" ? "r-high" : risk === "moderate" ? "r-moderate" : risk === "low" ? "r-low" : "";
   return <span className={["risk", cls].join(" ")}>{risk === "-" ? "-" : risk}</span>;
-}
-
-function TableRow({ index, style, data }) {
-  const r = data[index];
-  return (
-    <div style={style} className="tr">
-      <div style={{display:"flex", justifyContent:"space-between", padding:"12px 14px", alignItems:"center"}}>
-        <div style={{flex:1}}>
-          <div style={{fontWeight:600}}>{r.item_ko}</div>
-          <div className="muted" style={{fontSize:12}}>{r.item_en}</div>
-        </div>
-        <div className="pill" style={{whiteSpace:"nowrap", marginLeft:10}}>
-          {r.group}<span className="tag">{r.subgroup}</span>
-        </div>
-        <div style={{textAlign:"right", minWidth:120, marginLeft:10}}>{r.purine_mg ?? "-"}</div>
-        <div style={{textAlign:"center", minWidth:80, marginLeft:10}}>
-          <RiskPill v={r.purine_mg} />
-        </div>
-      </div>
-    </div>
-  );
 }
 
 export default function Home() {
@@ -102,25 +80,33 @@ export default function Home() {
         </p>
       </header>
 
-      <section className="card shadow" style={{padding:16, minHeight:400}}>
-        {filtered.length === 0 ? (
-          <p className="muted" style={{padding:12}}>해당 조건에 맞는 항목이 없습니다. 검색어/필터를 조정해 보세요.</p>
-        ) : (
-          <>
-            <div style={{fontSize:12, marginBottom:12, color:"var(--muted)"}}>
-              표 헤더: 이름 | 그룹 | Purine (mg/100g) | 위험도
-            </div>
-            <List
-              height={600}
-              itemCount={filtered.length}
-              itemSize={70}
-              width="100%"
-              itemData={filtered}
-            >
-              {TableRow}
-            </List>
-          </>
-        )}
+      <section className="card shadow" style={{padding:16}}>
+        <table className="table">
+          <thead>
+            <tr className="muted">
+              <th style={{textAlign:"left", padding:"8px 14px"}}>이름</th>
+              <th style={{textAlign:"left", padding:"8px 14px"}}>그룹</th>
+              <th style={{textAlign:"right", padding:"8px 14px"}}>Purine (mg/100g)</th>
+              <th style={{textAlign:"center", padding:"8px 14px"}}>위험도</th>
+            </tr>
+          </thead>
+          <tbody>
+            {filtered.map(r => (
+              <tr key={r.id} className="tr">
+                <td>
+                  <div style={{fontWeight:600}}>{r.item_ko}</div>
+                  <div className="muted" style={{fontSize:12}}>{r.item_en}</div>
+                </td>
+                <td>
+                  <div className="pill">{r.group}<span className="tag">{r.subgroup}</span></div>
+                </td>
+                <td style={{textAlign:"right"}}>{r.purine_mg ?? "-"}</td>
+                <td style={{textAlign:"center"}}><RiskPill v={r.purine_mg} /></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+        {filtered.length === 0 && (<p className="muted" style={{padding:12}}>해당 조건에 맞는 항목이 없습니다. 검색어/필터를 조정해 보세요.</p>)}
       </section>
 
       <footer style={{marginTop:16}} className="foot">
