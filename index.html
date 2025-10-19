@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>통풍 음식 검색기 - 퓨린 함량 확인</title>
+<meta name="description" content="통풍 환자를 위한 음식/음료 검색기 — 퓨린 함량, 위험도 등급 확인 (2021 Hou / 2014 Kaneko 기준)" />
+<meta name="keywords" content="통풍,gout,퓨린,purine,음식,food,검색기,database" />
+<meta property="og:title" content="통풍 음식 검색기" />
+<meta property="og:description" content="통풍 환자를 위한 퓨린 함량 검색 데이터베이스" />
+<meta property="og:type" content="website" />
+<meta name="theme-color" content="#0b1020" />
+<link rel="icon" href="/favicon.ico" />
+<style>
+:root{--bg:#0b1020;--card:#12182a;--muted:#a9b4c7;--text:#eef2ff}
+*{box-sizing:border-box}
+html,body,#root{height:100%}
+body{margin:0;background:linear-gradient(160deg,#0b1020 0%,#12182a 100%);color:var(--text);font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Inter,Apple SD Gothic Neo,Pretendard,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji"}
+a{color:inherit}
+.container{max-width:980px;margin:0 auto;padding:24px}
+.card{background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:16px;backdrop-filter:blur(8px)}
+.shadow{box-shadow:0 10px 30px rgba(0,0,0,.35)}
+.row{display:flex;gap:12px;flex-wrap:wrap}
+.input{flex:1;min-width:220px;padding:12px 14px;border-radius:12px;border:1px solid rgba(255,255,255,0.15);background:#0f1526;color:var(--text)}
+.select{padding:12px 14px;border-radius:12px;border:1px solid rgba(255,255,255,0.15);background:#0f1526;color:var(--text)}
+.pill{display:inline-flex;align-items:center;gap:6px;padding:8px 10px;border-radius:999px;font-size:12px;border:1px solid rgba(255,255,255,0.15);background:#0f1526}
+.tag{font-size:11px;opacity:.85}
+.table{width:100%;border-collapse:separate;border-spacing:0 10px}
+.tr{background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08)}
+.tr td{padding:12px 14px}
+.risk{font-weight:700;padding:4px 8px;border-radius:999px;font-size:12px}
+.r-high{background:rgba(251,113,133,.15);color:#fecdd3;border:1px solid rgba(251,113,133,.35)}
+.r-moderate{background:rgba(250,204,21,.15);color:#fde68a;border:1px solid rgba(250,204,21,.35)}
+.r-low{background:rgba(147,197,253,.15);color:#bfdbfe;border:1px solid rgba(147,197,253,.35)}
+.muted{color:var(--muted)}
+.foot{font-size:12px;opacity:.85}
+.kbd{font-family:ui-monospace,Consolas,Menlo,monospace;background:#0a0f1e;border:1px solid rgba(255,255,255,.12);padding:2px 6px;border-radius:6px}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script type="module" src="/src/main.jsx"></script>
+</body>
+</html>
