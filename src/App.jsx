@@ -90,7 +90,6 @@ return (
 <th style={{textAlign:"left", padding:"8px 14px"}}>그룹</th>
 <th style={{textAlign:"right", padding:"8px 14px"}}>Purine (mg/100g)</th>
 <th style={{textAlign:"center", padding:"8px 14px"}}>위험도</th>
-<th style={{textAlign:"left", padding:"8px 14px"}}>출처</th>
 </tr>
 </thead>
 <tbody>
@@ -105,7 +104,6 @@ return (
 </td>
 <td style={{textAlign:"right"}}>{r.purine_mg ?? "-"}</td>
 <td style={{textAlign:"center"}}><RiskPill v={r.purine_mg} /></td>
-<td><span className="pill">{r.source_year}</span></td>
 </tr>
 ))}
 </tbody>

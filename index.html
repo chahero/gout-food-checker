@@ -35,6 +35,31 @@ a{color:inherit}
 .muted{color:var(--muted)}
 .foot{font-size:12px;opacity:.85}
 .kbd{font-family:ui-monospace,Consolas,Menlo,monospace;background:#0a0f1e;border:1px solid rgba(255,255,255,.12);padding:2px 6px;border-radius:6px}
+@media (max-width:768px){
+.container{padding:16px}
+.input{min-width:160px;padding:10px 12px;font-size:14px}
+.select{padding:10px 12px;font-size:14px}
+.row{gap:8px}
+.table{border-spacing:0 6px;font-size:13px}
+.tr td{padding:10px 12px}
+th{font-size:12px !important;padding:8px 12px !important}
+.pill{padding:6px 8px;font-size:11px}
+.tag{font-size:10px}
+h1{font-size:18px;margin:4px 0 8px !important}
+}
+@media (max-width:480px){
+.container{padding:12px}
+.input{min-width:100%;padding:8px 10px;font-size:13px}
+.select{min-width:100%;padding:8px 10px;font-size:13px}
+.row{gap:6px;flex-direction:column}
+.table{border-spacing:0 4px;font-size:11px}
+.tr td{padding:8px 10px}
+th{font-size:11px !important;padding:6px 10px !important}
+.pill{padding:4px 6px;font-size:10px}
+.muted{font-size:10px}
+.risk{padding:2px 6px;font-size:10px}
+h1{font-size:16px;margin:2px 0 6px !important}
+}
 </style>
 </head>
 <body>
