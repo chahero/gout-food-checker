@@ -3,7 +3,9 @@
     "allow": [
       "Bash(npm install)",
       "Bash(npm run build)",
-      "Bash(dir /s /b)"
+      "Bash(dir /s /b)",
+      "Bash(find . -type f ( -name \"*.env*\" -o -name \"*secret*\" -o -name \"*key*\" -o -name \"*token*\" -o -name \"*password*\" -o -name \"credentials*\" ))",
+      "Bash(cat \"F:\\git_repository\\gout-food-checker\\.gitignore\")"
     ],
     "deny": [],
     "ask": []
