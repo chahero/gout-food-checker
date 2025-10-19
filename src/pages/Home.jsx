@@ -2,8 +2,6 @@ import React, { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import db from "../data/purine_db.json";
 
-const GROUP_ORDER = ["식물성", "버섯/해조", "동물성", "수산물", "양념/보충"];
-
 function classifyRisk(value) {
   if (value === null || value === undefined || isNaN(value)) return "-";
   if (value <= 50) return "low";
@@ -19,22 +17,13 @@ function RiskPill({ v }) {
 
 export default function Home() {
   const [q, setQ] = useState("");
-  const [group, setGroup] = useState("");
-  const [subgroup, setSubgroup] = useState("");
   const [sortKey, setSortKey] = useState("purine");
 
   const rows = db?.rows ?? [];
-  const groups = ["", ...GROUP_ORDER.filter(g => rows.some(r => r.group === g))];
-
-  const subgroups = useMemo(() => {
-    const set = new Set(rows.filter(r => !group || r.group === group).map(r => r.subgroup));
-    return ["", ...Array.from(set)];
-  }, [rows, group]);
 
   const filtered = useMemo(() => {
     const query = q.trim().toLowerCase();
     let arr = rows.filter(r => (
-      (!group || r.group === group) && (!subgroup || r.subgroup === subgroup) &&
       (!query || [r.item_ko, r.item_en].join(" ").toLowerCase().includes(query))
     ));
 
@@ -48,7 +37,7 @@ export default function Home() {
       if (typeof av === "string") return av.localeCompare(bv, "ko");
       return av - bv;
     });
-  }, [rows, q, group, subgroup, sortKey]);
+  }, [rows, q, sortKey]);
 
   return (
     <div className="container">
@@ -63,12 +52,6 @@ export default function Home() {
         </div>
         <div className="row" style={{marginTop:8}}>
           <input className="input" placeholder="음식/영문명 검색 (예: 두부, natto, chicken)" value={q} onChange={e=>setQ(e.target.value)} />
-          <select className="select" value={group} onChange={e=>{setGroup(e.target.value); setSubgroup("");}}>
-            {groups.map(g => <option key={g} value={g}>{g || "전체 그룹"}</option>)}
-          </select>
-          <select className="select" value={subgroup} onChange={e=>setSubgroup(e.target.value)}>
-            {subgroups.map(s => <option key={s} value={s}>{s || "세부 분류"}</option>)}
-          </select>
           <select className="select" value={sortKey} onChange={e=>setSortKey(e.target.value)}>
             <option value="purine">퓨린 함량 오름차순</option>
             <option value="name">이름(가나다)</option>
@@ -85,7 +68,6 @@ export default function Home() {
           <thead>
             <tr className="muted">
               <th style={{textAlign:"left", padding:"8px 14px"}}>이름</th>
-              <th style={{textAlign:"left", padding:"8px 14px"}}>그룹</th>
               <th style={{textAlign:"right", padding:"8px 14px"}}>Purine (mg/100g)</th>
               <th style={{textAlign:"center", padding:"8px 14px"}}>위험도</th>
             </tr>
@@ -96,9 +78,6 @@ export default function Home() {
                 <td>
                   <div style={{fontWeight:600}}>{r.item_ko}</div>
                   <div className="muted" style={{fontSize:12}}>{r.item_en}</div>
-                </td>
-                <td>
-                  <div className="pill">{r.group}<span className="tag">{r.subgroup}</span></div>
                 </td>
                 <td style={{textAlign:"right"}}>{r.purine_mg ?? "-"}</td>
                 <td style={{textAlign:"center"}}><RiskPill v={r.purine_mg} /></td>

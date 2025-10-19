@@ -10,8 +10,6 @@
     "rows": [
         {
             "id": "csv-green-bean",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "그린빈",
             "item_en": "Green bean",
             "purine_mg": 7.4,
@@ -19,8 +17,6 @@
         },
         {
             "id": "csv-green",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "완두콩 (통조림)",
             "item_en": "Green",
             "purine_mg": 18.8,
@@ -28,8 +24,6 @@
         },
         {
             "id": "csv-tofu",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "두부",
             "item_en": "Tofu",
             "purine_mg": 20.0,
@@ -37,8 +31,6 @@
         },
         {
             "id": "csv-tofu-",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "두부(연두부/키누두부)",
             "item_en": "Tofu (",
             "purine_mg": 31.1,
@@ -46,8 +38,6 @@
         },
         {
             "id": "csv-green-pea",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "완두콩",
             "item_en": "Green pea",
             "purine_mg": 21.8,
@@ -55,8 +45,6 @@
         },
         {
             "id": "csv-soymilk",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "두유",
             "item_en": "Soymilk",
             "purine_mg": 22.0,
@@ -64,8 +52,6 @@
         },
         {
             "id": "csv-red-pea-dried",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "붉은 완두(말린)",
             "item_en": "Red pea (dried)",
             "purine_mg": 25.4,
@@ -73,8 +59,6 @@
         },
         {
             "id": "csv-garbanzo-beans-chickpeas",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "가르반조콩 (병아리콩)",
             "item_en": "Garbanzo beans (chickpeas)",
             "purine_mg": 26.1,
@@ -82,8 +66,6 @@
         },
         {
             "id": "csv-faba-bean",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "잠두",
             "item_en": "Faba bean",
             "purine_mg": 35.5,
@@ -91,8 +73,6 @@
         },
         {
             "id": "csv-broad-bean",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "누에콩",
             "item_en": "Broad bean",
             "purine_mg": 35.5,
@@ -100,8 +80,6 @@
         },
         {
             "id": "csv-green-soybean",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "풋콩 (청대콩)",
             "item_en": "Green soybean",
             "purine_mg": 47.9,
@@ -109,8 +87,6 @@
         },
         {
             "id": "csv-bean-curd-lees-",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "콩비지 (오카라)",
             "item_en": "Bean curd lees (",
             "purine_mg": 48.6,
@@ -118,8 +94,6 @@
         },
         {
             "id": "csv-deep",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "튀긴 두부",
             "item_en": "Deep",
             "purine_mg": 221.6,
@@ -127,8 +101,6 @@
         },
         {
             "id": "csv-chia-seeds",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "치아시드",
             "item_en": "Chia seeds",
             "purine_mg": 58.6,
@@ -136,8 +108,6 @@
         },
         {
             "id": "csv-black-soybean-dried",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "검은콩 (말린)",
             "item_en": "Black soybean (dried)",
             "purine_mg": 67.1,
@@ -145,8 +115,6 @@
         },
         {
             "id": "csv-azuki-bean-dried",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "팥 (말린)",
             "item_en": "Azuki bean (dried)",
             "purine_mg": 77.6,
@@ -154,8 +122,6 @@
         },
         {
             "id": "csv-fermented-soybean-",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "발효콩 (낫또)",
             "item_en": "Fermented soybean (",
             "purine_mg": 113.9,
@@ -163,8 +129,6 @@
         },
         {
             "id": "csv-soybean-dried",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "콩/대두 (말린)",
             "item_en": "Soybean (dried)",
             "purine_mg": 172.5,
@@ -172,8 +136,6 @@
         },
         {
             "id": "csv-freeze",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "동결건조 두부",
             "item_en": "Freeze",
             "purine_mg": 293.1,
@@ -181,8 +143,6 @@
         },
         {
             "id": "csv-gelatin-noodles-dried",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "젤라틴 건면",
             "item_en": "Gelatin noodles (dried)",
             "purine_mg": 0.6,
@@ -190,8 +150,6 @@
         },
         {
             "id": "csv-bread",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "빵",
             "item_en": "Bread",
             "purine_mg": 4.4,
@@ -199,8 +157,6 @@
         },
         {
             "id": "csv-spaghetti",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "스파게티",
             "item_en": "Spaghetti",
             "purine_mg": 6.8,
@@ -208,8 +164,6 @@
         },
         {
             "id": "csv-soba-buckwheat",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소바 (메밀)",
             "item_en": "Soba (buckwheat)",
             "purine_mg": 7.7,
@@ -217,8 +171,6 @@
         },
         {
             "id": "csv-udon-wheat-noodle",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "우동 (밀가루면)",
             "item_en": "Udon (wheat noodle)",
             "purine_mg": 12.1,
@@ -226,8 +178,6 @@
         },
         {
             "id": "csv-flour-cake-flour",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "밀가루 (박력분)",
             "item_en": "Flour (cake flour)",
             "purine_mg": 15.7,
@@ -235,8 +185,6 @@
         },
         {
             "id": "csv-flour-",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "밀가루 (강력분)",
             "item_en": "Flour (",
             "purine_mg": 25.8,
@@ -244,8 +192,6 @@
         },
         {
             "id": "csv-flour-pastry-flour",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "밀가루 (페스트리용)",
             "item_en": "Flour (pastry flour)",
             "purine_mg": 25.8,
@@ -253,8 +199,6 @@
         },
         {
             "id": "csv-rice-polished",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "쌀 (백미/도정미)",
             "item_en": "Rice (polished)",
             "purine_mg": 25.9,
@@ -262,8 +206,6 @@
         },
         {
             "id": "csv-rice-with-the-bud",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "쌀 (쌀눈)",
             "item_en": "Rice (with the bud)",
             "purine_mg": 34.5,
@@ -271,8 +213,6 @@
         },
         {
             "id": "csv-rice-unpolished",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "쌀 (무도정)",
             "item_en": "Rice (unpolished)",
             "purine_mg": 37.4,
@@ -280,8 +220,6 @@
         },
         {
             "id": "csv-buckwheat",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "메밀",
             "item_en": "Buckwheat",
             "purine_mg": 44.3,
@@ -289,8 +227,6 @@
         },
         {
             "id": "csv-buckwheat-flour",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "메밀가루",
             "item_en": "Buckwheat flour",
             "purine_mg": 75.9,
@@ -298,8 +234,6 @@
         },
         {
             "id": "csv-barley",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "보리",
             "item_en": "Barley",
             "purine_mg": 44.3,
@@ -307,8 +241,6 @@
         },
         {
             "id": "csv-wheat-malt",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "밀엿기름",
             "item_en": "Wheat malt",
             "purine_mg": 135.4,
@@ -316,8 +248,6 @@
         },
         {
             "id": "csv-strawberry",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "딸기",
             "item_en": "Strawberry",
             "purine_mg": 2.2,
@@ -325,8 +255,6 @@
         },
         {
             "id": "csv-banana",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "바나나",
             "item_en": "Banana",
             "purine_mg": 3.0,
@@ -334,8 +262,6 @@
         },
         {
             "id": "csv-cherry-tomato",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "방울토마토",
             "item_en": "Cherry tomato",
             "purine_mg": 3.1,
@@ -343,8 +269,6 @@
         },
         {
             "id": "csv-orange",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "오렌지",
             "item_en": "Orange",
             "purine_mg": 4.13,
@@ -352,8 +276,6 @@
         },
         {
             "id": "csv-pomelo",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "포멜로",
             "item_en": "Pomelo",
             "purine_mg": 8.4,
@@ -361,8 +283,6 @@
         },
         {
             "id": "csv-pineapple",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "파인애플",
             "item_en": "Pineapple",
             "purine_mg": 11.48,
@@ -370,8 +290,6 @@
         },
         {
             "id": "csv-konnyaku-konjac",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "곤약",
             "item_en": "Konnyaku (konjac)",
             "purine_mg": 0.3,
@@ -379,8 +297,6 @@
         },
         {
             "id": "csv-lotus-root",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "연근",
             "item_en": "Lotus root",
             "purine_mg": 0.3,
@@ -388,8 +304,6 @@
         },
         {
             "id": "csv-red-green-pepper",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "홍피망",
             "item_en": "Red green pepper",
             "purine_mg": 0.9,
@@ -397,8 +311,6 @@
         },
         {
             "id": "csv-paprika-red",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "파프리카 (빨간색)",
             "item_en": "Paprika (red)",
             "purine_mg": 1.0,
@@ -406,8 +318,6 @@
         },
         {
             "id": "csv-japanese-radish-root",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "무 (뿌리)",
             "item_en": "Japanese radish (root)",
             "purine_mg": 1.7,
@@ -415,8 +325,6 @@
         },
         {
             "id": "csv-satoimo-taro",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "토란",
             "item_en": "Satoimo (taro)",
             "purine_mg": 1.9,
@@ -424,8 +332,6 @@
         },
         {
             "id": "csv-carrot",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "당근",
             "item_en": "Carrot",
             "purine_mg": 2.2,
@@ -433,8 +339,6 @@
         },
         {
             "id": "csv-ginger",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "생강",
             "item_en": "Ginger",
             "purine_mg": 2.3,
@@ -442,8 +346,6 @@
         },
         {
             "id": "csv-onion",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "양파",
             "item_en": "Onion",
             "purine_mg": 2.3,
@@ -451,8 +353,6 @@
         },
         {
             "id": "csv-green-pepper-pickled",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "피망 피클 (절인 피망)",
             "item_en": "Green pepper (pickled)",
             "purine_mg": 3.1,
@@ -460,8 +360,6 @@
         },
         {
             "id": "csv-tomato",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "토마토",
             "item_en": "Tomato",
             "purine_mg": 3.1,
@@ -469,8 +367,6 @@
         },
         {
             "id": "csv-cabbage",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "양배추",
             "item_en": "Cabbage",
             "purine_mg": 3.2,
@@ -478,8 +374,6 @@
         },
         {
             "id": "csv-turnip",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "순무",
             "item_en": "Turnip",
             "purine_mg": 3.9,
@@ -487,8 +381,6 @@
         },
         {
             "id": "csv-japanese-yam",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "마",
             "item_en": "Japanese yam",
             "purine_mg": 4.1,
@@ -496,8 +388,6 @@
         },
         {
             "id": "csv-lettuce",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "상추",
             "item_en": "Lettuce",
             "purine_mg": 4.6,
@@ -505,8 +395,6 @@
         },
         {
             "id": "csv-burdock",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "우엉",
             "item_en": "Burdock",
             "purine_mg": 5.1,
@@ -514,8 +402,6 @@
         },
         {
             "id": "csv-capsicum-red-pepper",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "고추",
             "item_en": "Capsicum (red pepper)",
             "purine_mg": 5.1,
@@ -523,8 +409,6 @@
         },
         {
             "id": "csv-goji-berry",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "구기자",
             "item_en": "Goji berry",
             "purine_mg": 5.5,
@@ -532,8 +416,6 @@
         },
         {
             "id": "csv-potato",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "감자",
             "item_en": "Potato",
             "purine_mg": 6.5,
@@ -541,8 +423,6 @@
         },
         {
             "id": "csv-chinese-cabbage",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "배추",
             "item_en": "Chinese cabbage",
             "purine_mg": 7.0,
@@ -550,8 +430,6 @@
         },
         {
             "id": "csv-japanese-ginger",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "양하",
             "item_en": "Japanese ginger",
             "purine_mg": 7.8,
@@ -559,8 +437,6 @@
         },
         {
             "id": "csv-cucumber",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "오이",
             "item_en": "Cucumber",
             "purine_mg": 9.4,
@@ -568,8 +444,6 @@
         },
         {
             "id": "csv-bitter-gourd",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "여주",
             "item_en": "Bitter gourd",
             "purine_mg": 9.9,
@@ -577,8 +451,6 @@
         },
         {
             "id": "csv-asparagus",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "아스파라거스 아랫부분",
             "item_en": "Asparagus",
             "purine_mg": 55.3,
@@ -586,8 +458,6 @@
         },
         {
             "id": "csv-podded-pea",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "깍지완두",
             "item_en": "Podded pea",
             "purine_mg": 10.4,
@@ -595,8 +465,6 @@
         },
         {
             "id": "csv-komatsuna",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소송채 이파리",
             "item_en": "Komatsuna",
             "purine_mg": 39.0,
@@ -604,8 +472,6 @@
         },
         {
             "id": "csv-honewort",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "삼엽채",
             "item_en": "Honewort",
             "purine_mg": 11.6,
@@ -613,8 +479,6 @@
         },
         {
             "id": "csv-corn",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "옥수수",
             "item_en": "Corn",
             "purine_mg": 11.7,
@@ -622,8 +486,6 @@
         },
         {
             "id": "csv-zucchini",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "쥬키니호박",
             "item_en": "Zucchini",
             "purine_mg": 13.1,
@@ -631,8 +493,6 @@
         },
         {
             "id": "csv-garlic",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "마늘",
             "item_en": "Garlic",
             "purine_mg": 17.0,
@@ -640,8 +500,6 @@
         },
         {
             "id": "csv-sweet-potato",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "고구마",
             "item_en": "Sweet potato",
             "purine_mg": 17.0,
@@ -649,8 +507,6 @@
         },
         {
             "id": "csv-avocado",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "아보카도",
             "item_en": "Avocado",
             "purine_mg": 18.4,
@@ -658,8 +514,6 @@
         },
         {
             "id": "csv-japanese",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "미나리",
             "item_en": "Japanese",
             "purine_mg": 18.9,
@@ -667,8 +521,6 @@
         },
         {
             "id": "csv-garlic-chives-nira",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "부추",
             "item_en": "Garlic chives (nira)",
             "purine_mg": 19.4,
@@ -676,8 +528,6 @@
         },
         {
             "id": "csv-mizuna",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "경수채 (미주나)",
             "item_en": "Mizuna",
             "purine_mg": 20.2,
@@ -685,8 +535,6 @@
         },
         {
             "id": "csv-brassicaceae-blossom",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "십자화과 (꽃)",
             "item_en": "Brassicaceae (blossom)",
             "purine_mg": 26.9,
@@ -694,8 +542,6 @@
         },
         {
             "id": "csv-bamboo-shoot",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "죽순 아랫부분",
             "item_en": "Bamboo shoot",
             "purine_mg": 63.3,
@@ -703,8 +549,6 @@
         },
         {
             "id": "csv-japanese-radish-leaf",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "무청",
             "item_en": "Japanese radish (leaf)",
             "purine_mg": 33.6,
@@ -712,8 +556,6 @@
         },
         {
             "id": "csv-bean-sprouts",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "콩나물",
             "item_en": "Bean sprouts",
             "purine_mg": 35.0,
@@ -721,8 +563,6 @@
         },
         {
             "id": "csv-sesame",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "참깨",
             "item_en": "Sesame",
             "purine_mg": 36.3,
@@ -730,8 +570,6 @@
         },
         {
             "id": "csv-coriander",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "고수",
             "item_en": "Coriander",
             "purine_mg": 39.5,
@@ -739,8 +577,6 @@
         },
         {
             "id": "csv-gumbo-okura",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "검보 (오쿠라)",
             "item_en": "Gumbo (okura)",
             "purine_mg": 39.5,
@@ -748,8 +584,6 @@
         },
         {
             "id": "csv-japanese-leek-negi",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "대파",
             "item_en": "Japanese leek (negi)",
             "purine_mg": 41.4,
@@ -757,8 +591,6 @@
         },
         {
             "id": "csv-perilla-frutescens-leaves",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "들깻잎",
             "item_en": "Perilla frutescens leaves",
             "purine_mg": 41.4,
@@ -766,8 +598,6 @@
         },
         {
             "id": "csv-shungiku",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "쑥갓",
             "item_en": "Shungiku",
             "purine_mg": 47.1,
@@ -775,8 +605,6 @@
         },
         {
             "id": "csv-eggplant",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "가지",
             "item_en": "Eggplant",
             "purine_mg": 50.7,
@@ -784,8 +612,6 @@
         },
         {
             "id": "csv-spinach",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "시금치 잎",
             "item_en": "Spinach",
             "purine_mg": 51.4,
@@ -793,8 +619,6 @@
         },
         {
             "id": "csv-japanese-pumpkin",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "단호박",
             "item_en": "Japanese pumpkin",
             "purine_mg": 56.6,
@@ -802,8 +626,6 @@
         },
         {
             "id": "csv-cauliflower",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "콜리플라워",
             "item_en": "Cauliflower",
             "purine_mg": 57.2,
@@ -811,8 +633,6 @@
         },
         {
             "id": "csv-sprouts-with-bean",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "숙주나물 (녹두 포함)",
             "item_en": "Sprouts (with bean)",
             "purine_mg": 57.3,
@@ -820,8 +640,6 @@
         },
         {
             "id": "csv-green-pepper",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "청피망",
             "item_en": "Green pepper",
             "purine_mg": 69.2,
@@ -829,8 +647,6 @@
         },
         {
             "id": "csv-broccoli",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "브로콜리",
             "item_en": "Broccoli",
             "purine_mg": 70.0,
@@ -838,8 +654,6 @@
         },
         {
             "id": "csv-white-radish-sprouts",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "무순",
             "item_en": "White radish sprouts",
             "purine_mg": 73.2,
@@ -847,8 +661,6 @@
         },
         {
             "id": "csv-broccoli-sprout",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "브로콜리 새싹",
             "item_en": "Broccoli sprout",
             "purine_mg": 129.6,
@@ -856,8 +668,6 @@
         },
         {
             "id": "csv-parsley",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "파슬리",
             "item_en": "Parsley",
             "purine_mg": 288.9,
@@ -865,8 +675,6 @@
         },
         {
             "id": "csv-peanut",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "땅콩",
             "item_en": "Peanut",
             "purine_mg": 49.1,
@@ -874,8 +682,6 @@
         },
         {
             "id": "csv-cashew",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "캐슈",
             "item_en": "Cashew",
             "purine_mg": 71.34,
@@ -883,8 +689,6 @@
         },
         {
             "id": "csv-pumpkin-seeds",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "호박씨",
             "item_en": "Pumpkin seeds",
             "purine_mg": 60.76,
@@ -892,8 +696,6 @@
         },
         {
             "id": "csv-hickory",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "히코리넛",
             "item_en": "Hickory",
             "purine_mg": 40.44,
@@ -901,8 +703,6 @@
         },
         {
             "id": "csv-almond",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "아몬드",
             "item_en": "Almond",
             "purine_mg": 31.4,
@@ -910,8 +710,6 @@
         },
         {
             "id": "csv-walnut",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "호두",
             "item_en": "Walnut",
             "purine_mg": 19.6,
@@ -919,8 +717,6 @@
         },
         {
             "id": "csv-white-aragekikurage",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "흰 목이버섯",
             "item_en": "White aragekikurage",
             "purine_mg": 6.9,
@@ -928,8 +724,6 @@
         },
         {
             "id": "csv-nameko-big-type",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "맛비늘버섯/나도팽나무버섯(대형)",
             "item_en": "Nameko (big type)",
             "purine_mg": 9.5,
@@ -937,8 +731,6 @@
         },
         {
             "id": "csv-enokidake",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "팽이버섯",
             "item_en": "Enokidake",
             "purine_mg": 49.4,
@@ -946,8 +738,6 @@
         },
         {
             "id": "csv-eringi",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "새송이버섯",
             "item_en": "Eringi",
             "purine_mg": 13.4,
@@ -955,8 +745,6 @@
         },
         {
             "id": "csv-cladosiphon-okamuranus",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "큰실말(모즈쿠)",
             "item_en": "Cladosiphon okamuranus",
             "purine_mg": 15.4,
@@ -964,8 +752,6 @@
         },
         {
             "id": "csv-hatakeshimeji",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "잿빛만가닥버섯",
             "item_en": "Hatakeshimeji",
             "purine_mg": 16.0,
@@ -973,8 +759,6 @@
         },
         {
             "id": "csv-bunashimeji",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "느티만가닥버섯",
             "item_en": "Bunashimeji",
             "purine_mg": 20.8,
@@ -982,8 +766,6 @@
         },
         {
             "id": "csv-shiitake-raw",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "생표고버섯",
             "item_en": "Shiitake (raw)",
             "purine_mg": 20.8,
@@ -991,8 +773,6 @@
         },
         {
             "id": "csv-shiitake",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "생표고버섯 115",
             "item_en": "Shiitake",
             "purine_mg": 29.5,
@@ -1000,8 +780,6 @@
         },
         {
             "id": "csv-yanagimatsutake",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "버들송이버섯",
             "item_en": "Yanagimatsutake",
             "purine_mg": 26.2,
@@ -1009,8 +787,6 @@
         },
         {
             "id": "csv-nameko",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "맛비늘버섯/나도팽나무버섯",
             "item_en": "Nameko",
             "purine_mg": 28.5,
@@ -1018,8 +794,6 @@
         },
         {
             "id": "csv-bunapii",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "만가닥버섯",
             "item_en": "Bunapii",
             "purine_mg": 30.8,
@@ -1027,8 +801,6 @@
         },
         {
             "id": "csv-yamabushitake",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "노루궁뎅이버섯",
             "item_en": "Yamabushitake",
             "purine_mg": 33.5,
@@ -1036,8 +808,6 @@
         },
         {
             "id": "csv-usu",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "산느타리버섯",
             "item_en": "Usu",
             "purine_mg": 37.9,
@@ -1045,8 +815,6 @@
         },
         {
             "id": "csv-kombu",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "건 다시마",
             "item_en": "Kombu(",
             "purine_mg": 46.4,
@@ -1054,8 +822,6 @@
         },
         {
             "id": "csv-tsukuritake",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "양송이버섯",
             "item_en": "Tsukuritake",
             "purine_mg": 49.5,
@@ -1063,8 +829,6 @@
         },
         {
             "id": "csv-white-hiratake",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "흰느타리버섯",
             "item_en": "White hiratake",
             "purine_mg": 66.7,
@@ -1072,8 +836,6 @@
         },
         {
             "id": "csv-maitake",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "잎새버섯",
             "item_en": "Maitake",
             "purine_mg": 98.5,
@@ -1081,8 +843,6 @@
         },
         {
             "id": "csv-hijiki",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "말린 톳",
             "item_en": "Hijiki(",
             "purine_mg": 132.8,
@@ -1090,8 +850,6 @@
         },
         {
             "id": "csv-hiratake",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "느타리버섯",
             "item_en": "Hiratake",
             "purine_mg": 142.3,
@@ -1099,8 +857,6 @@
         },
         {
             "id": "csv-jew",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "건목이버섯",
             "item_en": "Jew",
             "purine_mg": 155.7,
@@ -1108,8 +864,6 @@
         },
         {
             "id": "csv-shiitake-dried",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "건표고버섯",
             "item_en": "Shiitake (dried)",
             "purine_mg": 379.5,
@@ -1117,8 +871,6 @@
         },
         {
             "id": "csv-shiitake-for",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "건표고버섯 (육수용)",
             "item_en": "Shiitake (for",
             "purine_mg": 242.3,
@@ -1126,8 +878,6 @@
         },
         {
             "id": "csv-wakame",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "미역",
             "item_en": "Wakame",
             "purine_mg": 262.4,
@@ -1135,8 +885,6 @@
         },
         {
             "id": "csv-wakame",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "건미역",
             "item_en": "Wakame(",
             "purine_mg": 379.5,
@@ -1144,8 +892,6 @@
         },
         {
             "id": "csv-nori",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "말린 김",
             "item_en": "Nori(",
             "purine_mg": 591.7,
@@ -1153,8 +899,6 @@
         },
         {
             "id": "csv-chicken",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "닭",
             "item_en": "Chicken",
             "purine_mg": 142.37,
@@ -1162,8 +906,6 @@
         },
         {
             "id": "csv-duck",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "오리",
             "item_en": "Duck",
             "purine_mg": 96.22,
@@ -1171,8 +913,6 @@
         },
         {
             "id": "csv-chicken-breast",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "닭가슴살",
             "item_en": "Chicken breast",
             "purine_mg": 141.2,
@@ -1180,8 +920,6 @@
         },
         {
             "id": "csv-chicken-buttocks",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "닭엉덩이살",
             "item_en": "Chicken buttocks",
             "purine_mg": 66.8,
@@ -1189,8 +927,6 @@
         },
         {
             "id": "csv-chicken-gizzard",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "닭 근위",
             "item_en": "Chicken gizzard",
             "purine_mg": 142.9,
@@ -1198,8 +934,6 @@
         },
         {
             "id": "csv-chicken-heart",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "닭 염통",
             "item_en": "Chicken heart",
             "purine_mg": 125.4,
@@ -1207,8 +941,6 @@
         },
         {
             "id": "csv-chicken-leg",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "닭 다리",
             "item_en": "Chicken leg",
             "purine_mg": 122.9,
@@ -1216,8 +948,6 @@
         },
         {
             "id": "csv-chicken-liver",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "닭 간",
             "item_en": "Chicken liver",
             "purine_mg": 312.2,
@@ -1225,8 +955,6 @@
         },
         {
             "id": "csv-chicken-skin",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "닭껍질",
             "item_en": "Chicken skin",
             "purine_mg": 119.7,
@@ -1234,8 +962,6 @@
         },
         {
             "id": "csv-chicken-white-meat",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "닭 흰살부분 (가슴살, 날개, 안심 등)",
             "item_en": "Chicken white meat",
             "purine_mg": 153.9,
@@ -1243,8 +969,6 @@
         },
         {
             "id": "csv-chicken-wing",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "닭 날개",
             "item_en": "Chicken wing",
             "purine_mg": 137.5,
@@ -1252,8 +976,6 @@
         },
         {
             "id": "csv-duck-liver",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "오리 간",
             "item_en": "Duck liver",
             "purine_mg": 397.9,
@@ -1261,8 +983,6 @@
         },
         {
             "id": "csv-goose-liver",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "거위 간",
             "item_en": "Goose liver",
             "purine_mg": 376.9,
@@ -1270,8 +990,6 @@
         },
         {
             "id": "csv-bacon",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "베이컨",
             "item_en": "Bacon",
             "purine_mg": 61.8,
@@ -1279,8 +997,6 @@
         },
         {
             "id": "csv-boneless-ham",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "순살 햄",
             "item_en": "Boneless ham",
             "purine_mg": 74.2,
@@ -1288,8 +1004,6 @@
         },
         {
             "id": "csv-corned-beef",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "콘비프(염장소고기)",
             "item_en": "Corned beef",
             "purine_mg": 47.0,
@@ -1297,8 +1011,6 @@
         },
         {
             "id": "csv-frankfurt-sausage",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "프랑크푸르트 소시지",
             "item_en": "Frankfurt sausage",
             "purine_mg": 49.8,
@@ -1306,8 +1018,6 @@
         },
         {
             "id": "csv-liver-paste",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "간 페이스트",
             "item_en": "Liver paste",
             "purine_mg": 80.0,
@@ -1315,8 +1025,6 @@
         },
         {
             "id": "csv-pressed-ham",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "프레스 햄",
             "item_en": "Pressed ham",
             "purine_mg": 64.4,
@@ -1324,8 +1032,6 @@
         },
         {
             "id": "csv-prosciutto-",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "프로슈토 (파르마 햄)",
             "item_en": "Prosciutto (",
             "purine_mg": 138.3,
@@ -1333,8 +1039,6 @@
         },
         {
             "id": "csv-salami",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "살라미",
             "item_en": "Salami",
             "purine_mg": 120.4,
@@ -1342,8 +1046,6 @@
         },
         {
             "id": "csv-vienna-sausage",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "비엔나소시지",
             "item_en": "Vienna sausage",
             "purine_mg": 45.5,
@@ -1351,8 +1053,6 @@
         },
         {
             "id": "csv-chicken-egg",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "달걀",
             "item_en": "Chicken egg",
             "purine_mg": 0.0,
@@ -1360,8 +1060,6 @@
         },
         {
             "id": "csv-quail-egg",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "메추라기 알",
             "item_en": "Quail egg",
             "purine_mg": 0.0,
@@ -1369,8 +1067,6 @@
         },
         {
             "id": "csv-fresh-cream-animal",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "생크림(동물성)",
             "item_en": "Fresh cream (animal)",
             "purine_mg": 0.3,
@@ -1378,8 +1074,6 @@
         },
         {
             "id": "csv-fresh-cream-vegetable",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "생크림(식물성)",
             "item_en": "Fresh cream (vegetable)",
             "purine_mg": 0.1,
@@ -1387,8 +1081,6 @@
         },
         {
             "id": "csv-liquid-yoghurt",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "액상요거트",
             "item_en": "Liquid yoghurt",
             "purine_mg": 1.4,
@@ -1396,8 +1088,6 @@
         },
         {
             "id": "csv-cheese",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "치즈",
             "item_en": "Cheese",
             "purine_mg": 5.7,
@@ -1405,8 +1095,6 @@
         },
         {
             "id": "csv-grated-cheese",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "간 치즈",
             "item_en": "Grated cheese",
             "purine_mg": 12.9,
@@ -1414,8 +1102,6 @@
         },
         {
             "id": "csv-yogurt",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "요거트",
             "item_en": "Yogurt",
             "purine_mg": 5.2,
@@ -1423,8 +1109,6 @@
         },
         {
             "id": "csv-pork",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지고기",
             "item_en": "Pork",
             "purine_mg": 76.25,
@@ -1432,8 +1116,6 @@
         },
         {
             "id": "csv-beef",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소고기",
             "item_en": "Beef",
             "purine_mg": 85.7,
@@ -1441,8 +1123,6 @@
         },
         {
             "id": "csv-beef-brisket",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 양지머리",
             "item_en": "Beef brisket",
             "purine_mg": 79.2,
@@ -1450,8 +1130,6 @@
         },
         {
             "id": "csv-beef-clod",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 목심",
             "item_en": "Beef clod",
             "purine_mg": 104.0,
@@ -1459,8 +1137,6 @@
         },
         {
             "id": "csv-beef-heart",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 염통",
             "item_en": "Beef heart",
             "purine_mg": 185.0,
@@ -1468,8 +1144,6 @@
         },
         {
             "id": "csv-beef-kidney",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 콩팥",
             "item_en": "Beef kidney",
             "purine_mg": 174.2,
@@ -1477,8 +1151,6 @@
         },
         {
             "id": "csv-beef-large-intestine",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 대창",
             "item_en": "Beef large intestine",
             "purine_mg": 88.0,
@@ -1486,8 +1158,6 @@
         },
         {
             "id": "csv-beef-liver",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 간",
             "item_en": "Beef liver",
             "purine_mg": 219.8,
@@ -1495,8 +1165,6 @@
         },
         {
             "id": "csv-beef-neck",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 목살",
             "item_en": "Beef neck",
             "purine_mg": 100.6,
@@ -1504,8 +1172,6 @@
         },
         {
             "id": "csv-beef-ribloin",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 등심",
             "item_en": "Beef ribloin",
             "purine_mg": 74.2,
@@ -1513,8 +1179,6 @@
         },
         {
             "id": "csv-beef-shin",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 정강이",
             "item_en": "Beef shin",
             "purine_mg": 106.4,
@@ -1522,8 +1186,6 @@
         },
         {
             "id": "csv-beef-shoulder-ribs",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 어깨갈비",
             "item_en": "Beef shoulder ribs",
             "purine_mg": 77.4,
@@ -1531,8 +1193,6 @@
         },
         {
             "id": "csv-beef-shoulder-sirloin",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 어깨등심",
             "item_en": "Beef shoulder sirloin",
             "purine_mg": 90.2,
@@ -1540,8 +1200,6 @@
         },
         {
             "id": "csv-beef-stomach",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 위 (양, 벌집, 천엽, 막창)",
             "item_en": "Beef stomach",
             "purine_mg": 83.9,
@@ -1549,8 +1207,6 @@
         },
         {
             "id": "csv-beef-tenderloin",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 안심",
             "item_en": "Beef tenderloin",
             "purine_mg": 98.4,
@@ -1558,8 +1214,6 @@
         },
         {
             "id": "csv-beef-tongue",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 혀",
             "item_en": "Beef tongue",
             "purine_mg": 90.4,
@@ -1567,8 +1221,6 @@
         },
         {
             "id": "csv-beef-topside",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 우둔살",
             "item_en": "Beef topside",
             "purine_mg": 110.8,
@@ -1576,8 +1228,6 @@
         },
         {
             "id": "csv-beef-topside-heated",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소 우둔살 (익힌고기)",
             "item_en": "Beef topside (heated)",
             "purine_mg": 143.5,
@@ -1585,8 +1235,6 @@
         },
         {
             "id": "csv-pork-heart",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지 염통",
             "item_en": "Pork heart",
             "purine_mg": 119.2,
@@ -1594,8 +1242,6 @@
         },
         {
             "id": "csv-pork-kidney",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지 콩팥",
             "item_en": "Pork kidney",
             "purine_mg": 195.0,
@@ -1603,8 +1249,6 @@
         },
         {
             "id": "csv-pork-liver",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지 간",
             "item_en": "Pork liver",
             "purine_mg": 284.8,
@@ -1612,8 +1256,6 @@
         },
         {
             "id": "csv-pork-neck",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지 목살",
             "item_en": "Pork neck",
             "purine_mg": 70.5,
@@ -1621,8 +1263,6 @@
         },
         {
             "id": "csv-pork-ribs",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지 갈비",
             "item_en": "Pork ribs",
             "purine_mg": 75.8,
@@ -1630,8 +1270,6 @@
         },
         {
             "id": "csv-pork-rump",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지 엉덩이",
             "item_en": "Pork rump",
             "purine_mg": 113.0,
@@ -1639,8 +1277,6 @@
         },
         {
             "id": "csv-pork-shoulder",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지 목심",
             "item_en": "Pork shoulder",
             "purine_mg": 81.4,
@@ -1648,8 +1284,6 @@
         },
         {
             "id": "csv-pork-shoulder-ribs",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지 어깨갈비살",
             "item_en": "Pork shoulder ribs",
             "purine_mg": 90.8,
@@ -1657,8 +1291,6 @@
         },
         {
             "id": "csv-pork-shoulder-sirloin",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지 어깨등심",
             "item_en": "Pork shoulder sirloin",
             "purine_mg": 95.1,
@@ -1666,8 +1298,6 @@
         },
         {
             "id": "csv-pork-shoulder-knee",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지 어깨뒷다리",
             "item_en": "Pork shoulder knee",
             "purine_mg": 107.6,
@@ -1675,8 +1305,6 @@
         },
         {
             "id": "csv-pork-sirloin",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지 등심",
             "item_en": "Pork sirloin",
             "purine_mg": 90.9,
@@ -1684,8 +1312,6 @@
         },
         {
             "id": "csv-pork-tenderloin",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지 안심",
             "item_en": "Pork tenderloin",
             "purine_mg": 119.7,
@@ -1693,8 +1319,6 @@
         },
         {
             "id": "csv-pork-tongue",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지 혀",
             "item_en": "Pork tongue",
             "purine_mg": 104.0,
@@ -1702,8 +1326,6 @@
         },
         {
             "id": "csv-horse",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "말고기",
             "item_en": "Horse",
             "purine_mg": 113.1,
@@ -1711,8 +1333,6 @@
         },
         {
             "id": "csv-mutton",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "양고기",
             "item_en": "Mutton",
             "purine_mg": 96.2,
@@ -1720,8 +1340,6 @@
         },
         {
             "id": "csv-rum",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "양고기 럼",
             "item_en": "Rum",
             "purine_mg": 93.5,
@@ -1729,8 +1347,6 @@
         },
         {
             "id": "csv-whale-meat",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "고래고기",
             "item_en": "Whale meat",
             "purine_mg": 111.3,
@@ -1738,8 +1354,6 @@
         },
         {
             "id": "csv-whale-tail-meat",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "고래꼬리고기",
             "item_en": "Whale tail meat",
             "purine_mg": 87.6,
@@ -1747,8 +1361,6 @@
         },
         {
             "id": "csv-engawa",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "엔가와(넙치나 가자미의 지느러미 근육)",
             "item_en": "Engawa",
             "purine_mg": 19.0,
@@ -1756,8 +1368,6 @@
         },
         {
             "id": "csv-botan-shrimp",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "도화새우",
             "item_en": "Botan shrimp",
             "purine_mg": 53.4,
@@ -1765,8 +1375,6 @@
         },
         {
             "id": "csv-japanese-eel",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "뱀장어",
             "item_en": "Japanese eel",
             "purine_mg": 92.1,
@@ -1774,8 +1382,6 @@
         },
         {
             "id": "csv-conger-eel",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "붕장어",
             "item_en": "Conger eel",
             "purine_mg": 95.4,
@@ -1783,8 +1389,6 @@
         },
         {
             "id": "csv-cod",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "대구",
             "item_en": "Cod",
             "purine_mg": 98.0,
@@ -1792,8 +1396,6 @@
         },
         {
             "id": "csv-spiny-lobster",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "닭새우",
             "item_en": "Spiny lobster",
             "purine_mg": 102.1,
@@ -1801,8 +1403,6 @@
         },
         {
             "id": "csv-common-orient-clam",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "백합",
             "item_en": "Common orient clam",
             "purine_mg": 104.5,
@@ -1810,8 +1410,6 @@
         },
         {
             "id": "csv-japanese-seabass",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "농어",
             "item_en": "Japanese seabass",
             "purine_mg": 119.5,
@@ -1819,8 +1417,6 @@
         },
         {
             "id": "csv-red-seabream",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "참돔",
             "item_en": "Red seabream",
             "purine_mg": 128.9,
@@ -1828,8 +1424,6 @@
         },
         {
             "id": "csv-swordfish-",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "황새치",
             "item_en": "Swordfish (",
             "purine_mg": 132.1,
@@ -1837,8 +1431,6 @@
         },
         {
             "id": "csv-ayu",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "은어",
             "item_en": "Ayu",
             "purine_mg": 133.1,
@@ -1846,8 +1438,6 @@
         },
         {
             "id": "csv-spanish-mackerel",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "삼치",
             "item_en": "Spanish mackerel",
             "purine_mg": 139.3,
@@ -1855,8 +1445,6 @@
         },
         {
             "id": "csv-shiba-shrimp",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "중하",
             "item_en": "Shiba shrimp",
             "purine_mg": 144.2,
@@ -1864,8 +1452,6 @@
         },
         {
             "id": "csv-clam",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "조개",
             "item_en": "Clam",
             "purine_mg": 145.5,
@@ -1873,8 +1459,6 @@
         },
         {
             "id": "csv-young-yellowtail",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "새끼방어",
             "item_en": "Young yellowtail",
             "purine_mg": 152.5,
@@ -1882,8 +1466,6 @@
         },
         {
             "id": "csv-pacific-saury",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "꽁치",
             "item_en": "Pacific saury",
             "purine_mg": 208.8,
@@ -1891,8 +1473,6 @@
         },
         {
             "id": "csv-spear-squid",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "오징어",
             "item_en": "Spear squid",
             "purine_mg": 160.5,
@@ -1900,8 +1480,6 @@
         },
         {
             "id": "csv-jack-mackerel",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "전갱이",
             "item_en": "Jack mackerel",
             "purine_mg": 245.8,
@@ -1909,8 +1487,6 @@
         },
         {
             "id": "csv-rainbow-trout",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "무지개송어",
             "item_en": "Rainbow trout",
             "purine_mg": 180.9,
@@ -1918,8 +1494,6 @@
         },
         {
             "id": "csv-dotted-gizzard-shad",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "전어",
             "item_en": "Dotted gizzard shad",
             "purine_mg": 186.7,
@@ -1927,8 +1501,6 @@
         },
         {
             "id": "csv-sardine",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "정어리",
             "item_en": "Sardine",
             "purine_mg": 305.7,
@@ -1936,8 +1508,6 @@
         },
         {
             "id": "csv-bonito",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "가다랑어",
             "item_en": "Bonito",
             "purine_mg": 211.4,
@@ -1945,8 +1515,6 @@
         },
         {
             "id": "csv-okiami",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "크릴새우",
             "item_en": "Okiami(",
             "purine_mg": 225.7,
@@ -1954,8 +1522,6 @@
         },
         {
             "id": "csv-anchovy",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "멸치",
             "item_en": "Anchovy",
             "purine_mg": 303.9,
@@ -1963,8 +1529,6 @@
         },
         {
             "id": "csv-cutlassfishhairtail",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "갈치",
             "item_en": "Cutlassfish(hairtail)",
             "purine_mg": 385.4,
@@ -1972,8 +1536,6 @@
         },
         {
             "id": "csv-ctenopharyngodon-idellus",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "초어",
             "item_en": "Ctenopharyngodon idellus",
             "purine_mg": 719.0,
@@ -1981,8 +1543,6 @@
         },
         {
             "id": "csv-hanpen",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "어육가공품 (어묵/한펜) fish product(",
             "item_en": "Hanpen)",
             "purine_mg": 12.5,
@@ -1990,8 +1550,6 @@
         },
         {
             "id": "csv-satsuma-age",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "어육가공품 (어묵/사츠마아게) fish product(",
             "item_en": "Satsuma age)",
             "purine_mg": 21.4,
@@ -1999,8 +1557,6 @@
         },
         {
             "id": "csv-fish-sausage",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "생선소시지",
             "item_en": "Fish sausage",
             "purine_mg": 22.6,
@@ -2008,8 +1564,6 @@
         },
         {
             "id": "csv-fish-product-",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "어육가공품(어묵/가마보코)",
             "item_en": "Fish product (",
             "purine_mg": 47.8,
@@ -2017,8 +1571,6 @@
         },
         {
             "id": "csv-fish-product",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "어육가공품(라면어묵/나루토마키)",
             "item_en": "Fish product(",
             "purine_mg": 32.4,
@@ -2026,8 +1578,6 @@
         },
         {
             "id": "csv-fishcake-tube",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "부들어묵(치쿠와)",
             "item_en": "Fishcake tube(",
             "purine_mg": 47.7,
@@ -2035,8 +1585,6 @@
         },
         {
             "id": "csv-fish-ball",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "생선 완자",
             "item_en": "Fish ball",
             "purine_mg": 67.6,
@@ -2044,8 +1592,6 @@
         },
         {
             "id": "csv-tuna",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "참치",
             "item_en": "Tuna",
             "purine_mg": 157.4,
@@ -2053,8 +1599,6 @@
         },
         {
             "id": "csv-salmon",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "연어",
             "item_en": "Salmon",
             "purine_mg": 132.9,
@@ -2062,8 +1606,6 @@
         },
         {
             "id": "csv-gonads-of-canned-sea-urchin",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "성게알통조림",
             "item_en": "Gonads of canned sea urchin",
             "purine_mg": 1568.5,
@@ -2071,8 +1613,6 @@
         },
         {
             "id": "csv-shishamo-with-roe",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "알밴 열빙어(시샤모)",
             "item_en": "Shishamo with roe",
             "purine_mg": 149.6,
@@ -2080,8 +1620,6 @@
         },
         {
             "id": "csv-whitebait-dried",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "말린 뱅어",
             "item_en": "Whitebait (dried)",
             "purine_mg": 471.5,
@@ -2089,8 +1627,6 @@
         },
         {
             "id": "csv-katsuobushi-dried-bonito",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "건가다랑어포(가쓰오부시)",
             "item_en": "Katsuobushi (dried bonito)",
             "purine_mg": 493.3,
@@ -2098,8 +1634,6 @@
         },
         {
             "id": "csv-niboshi-dried-baby-sardines",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "말린 새끼정어리",
             "item_en": "Niboshi (dried baby sardines)",
             "purine_mg": 746.1,
@@ -2107,8 +1641,6 @@
         },
         {
             "id": "csv-anchovydried",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "건멸치",
             "item_en": "Anchovy(dried)",
             "purine_mg": 1108.6,
@@ -2116,8 +1648,6 @@
         },
         {
             "id": "csv-salmon-roe",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "연어알절임(이쿠라)",
             "item_en": "Salmon roe(",
             "purine_mg": 3.7,
@@ -2125,8 +1655,6 @@
         },
         {
             "id": "csv-sea-cucumber",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "해삼",
             "item_en": "Sea cucumber",
             "purine_mg": 5.5,
@@ -2134,8 +1662,6 @@
         },
         {
             "id": "csv-salmon-roe-",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "연어알절임(수지코)",
             "item_en": "Salmon roe (",
             "purine_mg": 15.7,
@@ -2143,8 +1669,6 @@
         },
         {
             "id": "csv-herring-roe",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "말린 청어알",
             "item_en": "Herring roe",
             "purine_mg": 21.9,
@@ -2152,8 +1676,6 @@
         },
         {
             "id": "csv-squid",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "오징어내장",
             "item_en": "Squid",
             "purine_mg": 59.6,
@@ -2161,8 +1683,6 @@
         },
         {
             "id": "csv-sablefish",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "은대구 껍질",
             "item_en": "Sablefish",
             "purine_mg": 123.3,
@@ -2170,8 +1690,6 @@
         },
         {
             "id": "csv-flying-fish-roe",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "날치알",
             "item_en": "Flying fish roe",
             "purine_mg": 91.5,
@@ -2179,8 +1697,6 @@
         },
         {
             "id": "csv-monkfish",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "아귀살",
             "item_en": "Monkfish",
             "purine_mg": 399.2,
@@ -2188,8 +1704,6 @@
         },
         {
             "id": "csv-japanese-scallop",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "가리비",
             "item_en": "Japanese scallop",
             "purine_mg": 76.5,
@@ -2197,8 +1711,6 @@
         },
         {
             "id": "csv-octopus",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "문어 내장",
             "item_en": "Octopus",
             "purine_mg": 137.3,
@@ -2206,8 +1718,6 @@
         },
         {
             "id": "csv-shredded-squid-dried",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "오징어채",
             "item_en": "Shredded squid (dried)",
             "purine_mg": 94.4,
@@ -2215,8 +1725,6 @@
         },
         {
             "id": "csv-caviar",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "캐비어",
             "item_en": "Caviar",
             "purine_mg": 94.7,
@@ -2224,8 +1732,6 @@
         },
         {
             "id": "csv-wakasagi-smelt",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "빙어",
             "item_en": "Wakasagi smelt",
             "purine_mg": 94.8,
@@ -2233,8 +1739,6 @@
         },
         {
             "id": "csv-sailfin-sandfish",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "도루묵",
             "item_en": "Sailfin sandfish",
             "purine_mg": 98.5,
@@ -2242,8 +1746,6 @@
         },
         {
             "id": "csv-red-king-crab",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "(붉은)왕게",
             "item_en": "Red king crab",
             "purine_mg": 99.6,
@@ -2251,8 +1753,6 @@
         },
         {
             "id": "csv-carp",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "잉어",
             "item_en": "Carp",
             "purine_mg": 103.2,
@@ -2260,8 +1760,6 @@
         },
         {
             "id": "csv-yellow-striped-flounder",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "참가자미",
             "item_en": "Yellow striped flounder",
             "purine_mg": 113.0,
@@ -2269,8 +1767,6 @@
         },
         {
             "id": "csv-hesiko-",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "정어리(헤시코)",
             "item_en": "Hesiko (",
             "purine_mg": 116.3,
@@ -2278,8 +1774,6 @@
         },
         {
             "id": "csv-tilefish",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "옥돔",
             "item_en": "Tilefish",
             "purine_mg": 119.4,
@@ -2287,8 +1781,6 @@
         },
         {
             "id": "csv-pollock-roe",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "명란(타라코)",
             "item_en": "Pollock roe(",
             "purine_mg": 120.7,
@@ -2296,8 +1788,6 @@
         },
         {
             "id": "csv-japanese-amberjack",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "방어",
             "item_en": "Japanese amberjack",
             "purine_mg": 120.8,
@@ -2305,8 +1795,6 @@
         },
         {
             "id": "csv-chub-mackerel",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "고등어",
             "item_en": "Chub mackerel",
             "purine_mg": 122.1,
@@ -2314,8 +1802,6 @@
         },
         {
             "id": "csv-mebaru",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "볼락",
             "item_en": "Mebaru",
             "purine_mg": 124.2,
@@ -2323,8 +1809,6 @@
         },
         {
             "id": "csv-firefly-squid",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "매오징어",
             "item_en": "Firefly squid",
             "purine_mg": 128.1,
@@ -2332,8 +1816,6 @@
         },
         {
             "id": "csv-fat-greenling",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "쥐노래미",
             "item_en": "Fat greenling",
             "purine_mg": 129.1,
@@ -2341,8 +1823,6 @@
         },
         {
             "id": "csv-bastard-halibut",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "넙치",
             "item_en": "Bastard halibut",
             "purine_mg": 133.4,
@@ -2350,8 +1830,6 @@
         },
         {
             "id": "csv-weather-loach",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "미꾸리",
             "item_en": "Weather loach",
             "purine_mg": 136.0,
@@ -2359,8 +1837,6 @@
         },
         {
             "id": "csv-snow-crab",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "대게",
             "item_en": "Snow crab",
             "purine_mg": 136.4,
@@ -2368,8 +1844,6 @@
         },
         {
             "id": "csv-sea",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "성게",
             "item_en": "Sea",
             "purine_mg": 137.3,
@@ -2377,8 +1851,6 @@
         },
         {
             "id": "csv-herring",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "청어",
             "item_en": "Herring",
             "purine_mg": 139.6,
@@ -2386,8 +1858,6 @@
         },
         {
             "id": "csv-sillaginidae",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "보리멸과",
             "item_en": "Sillaginidae",
             "purine_mg": 143.9,
@@ -2395,8 +1865,6 @@
         },
         {
             "id": "csv-barracuda",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "창꼬치",
             "item_en": "Barracuda",
             "purine_mg": 147.9,
@@ -2404,8 +1872,6 @@
         },
         {
             "id": "csv-striped-pigfish",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "(줄무늬)벤자리",
             "item_en": "Striped pigfish",
             "purine_mg": 149.3,
@@ -2413,8 +1879,6 @@
         },
         {
             "id": "csv-arabesque-greenling",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "임연수어",
             "item_en": "Arabesque greenling",
             "purine_mg": 150.0,
@@ -2422,8 +1886,6 @@
         },
         {
             "id": "csv-gnomefish",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "게르치살",
             "item_en": "Gnomefish",
             "purine_mg": 382.3,
@@ -2431,8 +1893,6 @@
         },
         {
             "id": "csv-crab",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "꽃게알(난소)",
             "item_en": "Crab",
             "purine_mg": 152.2,
@@ -2440,8 +1900,6 @@
         },
         {
             "id": "csv-flying-fish",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "날치",
             "item_en": "Flying fish",
             "purine_mg": 154.6,
@@ -2449,8 +1907,6 @@
         },
         {
             "id": "csv-pollock-roe",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "명란",
             "item_en": "Pollock roe",
             "purine_mg": 159.3,
@@ -2458,8 +1914,6 @@
         },
         {
             "id": "csv-botan-shrimp-roe",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "도화새우 알",
             "item_en": "Botan shrimp (roe)",
             "purine_mg": 162.5,
@@ -2467,8 +1921,6 @@
         },
         {
             "id": "csv-oyster",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "굴",
             "item_en": "Oyster",
             "purine_mg": 184.5,
@@ -2476,8 +1928,6 @@
         },
         {
             "id": "csv-japanese-flying-squid",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "살오징어",
             "item_en": "Japanese flying squid",
             "purine_mg": 186.8,
@@ -2485,8 +1935,6 @@
         },
         {
             "id": "csv-kuruma-shrimp",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "보리새우",
             "item_en": "Kuruma shrimp",
             "purine_mg": 195.3,
@@ -2494,8 +1942,6 @@
         },
         {
             "id": "csv-hesiko",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "헤시코(고등어)",
             "item_en": "Hesiko(",
             "purine_mg": 207.0,
@@ -2503,8 +1949,6 @@
         },
         {
             "id": "csv-oriental-shrimp",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "대하",
             "item_en": "Oriental shrimp",
             "purine_mg": 273.2,
@@ -2512,8 +1956,6 @@
         },
         {
             "id": "csv-milt-",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "이리(벤자리)",
             "item_en": "Milt (",
             "purine_mg": 305.5,
@@ -2521,8 +1963,6 @@
         },
         {
             "id": "csv-globefish-milt",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "복어 이리",
             "item_en": "Globefish milt",
             "purine_mg": 375.4,
@@ -2530,8 +1970,6 @@
         },
         {
             "id": "csv-cod-milt",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "대구 고니",
             "item_en": "Cod milt",
             "purine_mg": 559.8,
@@ -2539,8 +1977,6 @@
         },
         {
             "id": "csv-sakura-shrimp-dired",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "건벚꽃새우",
             "item_en": "Sakura shrimp (dired)",
             "purine_mg": 749.1,
@@ -2548,8 +1984,6 @@
         },
         {
             "id": "csv-mayonnaise",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "마요네즈",
             "item_en": "Mayonnaise",
             "purine_mg": 0.6,
@@ -2557,8 +1991,6 @@
         },
         {
             "id": "csv-wasabi",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "고추냉이",
             "item_en": "Wasabi",
             "purine_mg": 0.7,
@@ -2566,8 +1998,6 @@
         },
         {
             "id": "csv-honey",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "꿀",
             "item_en": "Honey",
             "purine_mg": 0.9,
@@ -2575,8 +2005,6 @@
         },
         {
             "id": "csv-mirin",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "맛술",
             "item_en": "Mirin",
             "purine_mg": 1.2,
@@ -2584,8 +2012,6 @@
         },
         {
             "id": "csv-chinese-chili-bean-sauce",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "두반장",
             "item_en": "Chinese chili bean sauce",
             "purine_mg": 8.7,
@@ -2593,8 +2019,6 @@
         },
         {
             "id": "csv-ketchup",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "케첩",
             "item_en": "Ketchup",
             "purine_mg": 10.5,
@@ -2602,8 +2026,6 @@
         },
         {
             "id": "csv-salted-rice-malt",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "누룩소금",
             "item_en": "Salted rice malt",
             "purine_mg": 13.8,
@@ -2611,8 +2033,6 @@
         },
         {
             "id": "csv-barbecue-sauce",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "바비큐소스",
             "item_en": "Barbecue sauce",
             "purine_mg": 14.9,
@@ -2620,8 +2040,6 @@
         },
         {
             "id": "csv-curry-roux",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "고형카레/카레루",
             "item_en": "Curry roux",
             "purine_mg": 16.2,
@@ -2629,8 +2047,6 @@
         },
         {
             "id": "csv-cayenne-pepper-powder",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "카이엔페퍼 가루",
             "item_en": "Cayenne pepper powder",
             "purine_mg": 19.8,
@@ -2638,8 +2054,6 @@
         },
         {
             "id": "csv-mustard",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "머스터드",
             "item_en": "Mustard",
             "purine_mg": 25.3,
@@ -2647,8 +2061,6 @@
         },
         {
             "id": "csv-powder-soup",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "분말수프-포타주",
             "item_en": "Powder soup",
             "purine_mg": 37.6,
@@ -2656,8 +2068,6 @@
         },
         {
             "id": "csv-soy-sauce",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "진간장(노추老抽)",
             "item_en": "Soy sauce",
             "purine_mg": 55.3,
@@ -2665,8 +2075,6 @@
         },
         {
             "id": "csv-miso",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "백된장(하얀미소)",
             "item_en": "Miso",
             "purine_mg": 63.5,
@@ -2674,8 +2082,6 @@
         },
         {
             "id": "csv-frying-powder",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "튀김가루",
             "item_en": "Frying powder",
             "purine_mg": 68.7,
@@ -2683,8 +2089,6 @@
         },
         {
             "id": "csv-sake-lees",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "술지게미",
             "item_en": "Sake lees",
             "purine_mg": 89.2,
@@ -2692,8 +2096,6 @@
         },
         {
             "id": "csv-nampla",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "피시소스",
             "item_en": "Nampla",
             "purine_mg": 93.1,
@@ -2701,8 +2103,6 @@
         },
         {
             "id": "csv-rice-bran",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "쌀겨",
             "item_en": "Rice bran",
             "purine_mg": 100.2,
@@ -2710,8 +2110,6 @@
         },
         {
             "id": "csv-oyster-sauce",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "굴소스",
             "item_en": "Oyster sauce",
             "purine_mg": 134.4,
@@ -2719,8 +2117,6 @@
         },
         {
             "id": "csv-powder-soup-consomme",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "분말수프-콘소메",
             "item_en": "Powder soup consomme",
             "purine_mg": 179.8,
@@ -2728,8 +2124,6 @@
         },
         {
             "id": "csv-chinese-soup-stock-",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "중국식 고형 육수",
             "item_en": "Chinese soup stock (",
             "purine_mg": 508.9,
@@ -2737,8 +2131,6 @@
         },
         {
             "id": "csv-powdered",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "조미료(다시)",
             "item_en": "Powdered",
             "purine_mg": 684.8,
@@ -2746,8 +2138,6 @@
         },
         {
             "id": "csv-chitin",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "키틴, 키토산",
             "item_en": "Chitin",
             "purine_mg": 0.6,
@@ -2755,8 +2145,6 @@
         },
         {
             "id": "csv-scales-and-collagen",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "콜라겐",
             "item_en": "Scales and collagen",
             "purine_mg": 2.9,
@@ -2764,8 +2152,6 @@
         },
         {
             "id": "csv-soybean-isoflavone",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "대두 이소플라본",
             "item_en": "Soybean isoflavone",
             "purine_mg": 6.9,
@@ -2773,8 +2159,6 @@
         },
         {
             "id": "csv-glucosamine",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "글루코사민",
             "item_en": "Glucosamine",
             "purine_mg": 11.8,
@@ -2782,8 +2166,6 @@
         },
         {
             "id": "csv-polysaccharide",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "다당류",
             "item_en": "Polysaccharide",
             "purine_mg": 58.1,
@@ -2791,8 +2173,6 @@
         },
         {
             "id": "csv-nuclei-acid-beverage",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "핵산 음료",
             "item_en": "Nuclei acid beverage",
             "purine_mg": 81.9,
@@ -2800,8 +2180,6 @@
         },
         {
             "id": "csv-euglenadried",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "유글레나(말린)",
             "item_en": "Euglena(dried)",
             "purine_mg": 379.9,
@@ -2809,8 +2187,6 @@
         },
         {
             "id": "csv-royal-jelly",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "로열젤리",
             "item_en": "Royal jelly",
             "purine_mg": 403.4,
@@ -2818,8 +2194,6 @@
         },
         {
             "id": "csv-w",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "젖산균 보충제",
             "item_en": "W",
             "purine_mg": 471.5,
@@ -2827,8 +2201,6 @@
         },
         {
             "id": "csv-r",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "젖산균 보충제",
             "item_en": "R",
             "purine_mg": 516.0,
@@ -2836,8 +2208,6 @@
         },
         {
             "id": "csv-yeast-dried",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "이스트/효모(말린)",
             "item_en": "Yeast (dried)",
             "purine_mg": 847.1,
@@ -2845,8 +2215,6 @@
         },
         {
             "id": "csv-spirulina",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "스피룰리나",
             "item_en": "Spirulina",
             "purine_mg": 1076.8,
@@ -2854,8 +2222,6 @@
         },
         {
             "id": "csv-beer-yeast",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "맥주 효모",
             "item_en": "Beer yeast",
             "purine_mg": 2995.7,
@@ -2863,8 +2229,6 @@
         },
         {
             "id": "csv-chlorella",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "클로렐라",
             "item_en": "Chlorella",
             "purine_mg": 3182.7,
@@ -2872,8 +2236,6 @@
         },
         {
             "id": "img-asparagus-lower-part",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "아스파라거스 아랫부분",
             "item_en": "Asparagus Lower part",
             "purine_mg": 10.2,
@@ -2881,8 +2243,6 @@
         },
         {
             "id": "img-asparagus-upper-part",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "아스파라거스 윗부분",
             "item_en": "Asparagus Upper part",
             "purine_mg": 55.3,
@@ -2890,8 +2250,6 @@
         },
         {
             "id": "img-bamboo-shoot-lower-part",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "죽순 아랫부분",
             "item_en": "Bamboo shoot Lower part",
             "purine_mg": 30.8,
@@ -2899,8 +2257,6 @@
         },
         {
             "id": "img-bamboo-shoot-upper-part",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "죽순 윗부분",
             "item_en": "Bamboo shoot Upper part",
             "purine_mg": 63.3,
@@ -2908,8 +2264,6 @@
         },
         {
             "id": "img-bean-curd-lees-okara",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "콩비지 (오카라)",
             "item_en": "Bean curd lees (Okara)",
             "purine_mg": 48.6,
@@ -2917,8 +2271,6 @@
         },
         {
             "id": "img-beef-fat",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "쇠고기 (지방)",
             "item_en": "Beef (fat)",
             "purine_mg": 42.5,
@@ -2926,8 +2278,6 @@
         },
         {
             "id": "img-beef-lean",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "쇠고기 (살코기)",
             "item_en": "Beef (lean)",
             "purine_mg": 62.4,
@@ -2935,8 +2285,6 @@
         },
         {
             "id": "img-chicken-lean",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "닭고기 (살코기)",
             "item_en": "Chicken (lean)",
             "purine_mg": 61.3,
@@ -2944,8 +2292,6 @@
         },
         {
             "id": "img-chicken-skin",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "닭고기 (피부)",
             "item_en": "Chicken (skin)",
             "purine_mg": 36.8,
@@ -2953,8 +2299,6 @@
         },
         {
             "id": "img-deep-fried-tofu",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "튀긴 두부",
             "item_en": "Deep-fried tofu",
             "purine_mg": 54.4,
@@ -2962,8 +2306,6 @@
         },
         {
             "id": "img-fermented-soybean-natto",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "발효콩 (낫또)",
             "item_en": "Fermented soybean (Natto)",
             "purine_mg": 113.9,
@@ -2971,8 +2313,6 @@
         },
         {
             "id": "img-flounder",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "넙치 (광어)",
             "item_en": "Flounder",
             "purine_mg": 63.3,
@@ -2980,8 +2320,6 @@
         },
         {
             "id": "img-freeze-dried-tofu",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "동결건조 두부",
             "item_en": "Freeze-dried tofu",
             "purine_mg": 293.1,
@@ -2989,8 +2327,6 @@
         },
         {
             "id": "img-green-peas-canned",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "완두콩 (통조림)",
             "item_en": "Green-peas (canned)",
             "purine_mg": 18.8,
@@ -2998,8 +2334,6 @@
         },
         {
             "id": "img-ham",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "햄",
             "item_en": "Ham",
             "purine_mg": 52.9,
@@ -3007,8 +2341,6 @@
         },
         {
             "id": "img-hijiki-dried",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "말린 톳",
             "item_en": "Hijiki (Dried)",
             "purine_mg": 132.8,
@@ -3016,8 +2348,6 @@
         },
         {
             "id": "img-komatsuna-leaf",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소송채 이파리",
             "item_en": "Komatsuna Leaf",
             "purine_mg": 10.6,
@@ -3025,8 +2355,6 @@
         },
         {
             "id": "img-komatsuna-young-leaf",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소송채 어린잎",
             "item_en": "Komatsuna Young leaf",
             "purine_mg": 39.0,
@@ -3034,8 +2362,6 @@
         },
         {
             "id": "img-kombu",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "다시마",
             "item_en": "Kombu",
             "purine_mg": 46.4,
@@ -3043,8 +2369,6 @@
         },
         {
             "id": "img-lobster",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "랍스터 (바닷가재)",
             "item_en": "Lobster",
             "purine_mg": 119.2,
@@ -3052,8 +2376,6 @@
         },
         {
             "id": "img-mackerel",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "고등어",
             "item_en": "Mackerel",
             "purine_mg": 122.1,
@@ -3061,8 +2383,6 @@
         },
         {
             "id": "img-milk",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "우유",
             "item_en": "Milk",
             "purine_mg": 0.0,
@@ -3070,8 +2390,6 @@
         },
         {
             "id": "img-nori",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "김",
             "item_en": "Nori",
             "purine_mg": 591.7,
@@ -3079,8 +2397,6 @@
         },
         {
             "id": "img-nori-dried",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "말린 김",
             "item_en": "Nori (Dried)",
             "purine_mg": 591.7,
@@ -3088,8 +2404,6 @@
         },
         {
             "id": "img-pork-fat",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지고기 (지방)",
             "item_en": "Pork (fat)",
             "purine_mg": 43.3,
@@ -3097,8 +2411,6 @@
         },
         {
             "id": "img-pork-lean",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "돼지고기 (살코기)",
             "item_en": "Pork (lean)",
             "purine_mg": 69.9,
@@ -3106,8 +2418,6 @@
         },
         {
             "id": "img-sausage",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "소시지",
             "item_en": "Sausage",
             "purine_mg": 63.3,
@@ -3115,8 +2425,6 @@
         },
         {
             "id": "img-scallop",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "가리비 (굴)",
             "item_en": "Scallop",
             "purine_mg": 190.0,
@@ -3124,8 +2432,6 @@
         },
         {
             "id": "img-shrimp",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "새우",
             "item_en": "Shrimp",
             "purine_mg": 120.6,
@@ -3133,8 +2439,6 @@
         },
         {
             "id": "img-sole",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "가자미",
             "item_en": "Sole",
             "purine_mg": 38.9,
@@ -3142,8 +2446,6 @@
         },
         {
             "id": "img-soybean",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "콩/대두",
             "item_en": "Soybean",
             "purine_mg": 25.9,
@@ -3151,8 +2453,6 @@
         },
         {
             "id": "img-spinach-leaf",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "시금치 잎",
             "item_en": "Spinach Leaf",
             "purine_mg": 51.4,
@@ -3160,8 +2460,6 @@
         },
         {
             "id": "img-spinach-young-leaf",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "시금치 어린잎",
             "item_en": "Spinach Young Leaf",
             "purine_mg": 171.8,
@@ -3169,8 +2467,6 @@
         },
         {
             "id": "img-trout",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "송어",
             "item_en": "Trout",
             "purine_mg": 123.5,
@@ -3178,8 +2474,6 @@
         },
         {
             "id": "img-wakame-dried",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "건미역",
             "item_en": "Wakame (Dried)",
             "purine_mg": 379.5,
@@ -3187,8 +2481,6 @@
         },
         {
             "id": "img-white-fish-cod",
-            "group": "Other",
-            "subgroup": "Other",
             "item_ko": "흰살 생선 (대구)",
             "item_en": "White fish (Cod)",
             "purine_mg": 46.1,
