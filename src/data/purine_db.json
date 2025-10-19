@@ -1,253 +1,1952 @@
 {
     "meta": {
-    "unit": "mg purine / 100g",
-    "source_priority": "2021 우선, 2014 보완"
-},
-"rows": [
-    {"id":"1-1-green-bean","group":"식물성","subgroup":"콩과","item_ko":"그린빈","item_en":"Green bean","purine_mg":7.40,"source_year":2021},
-    {"id":"1-1-green-peas-canned","group":"식물성","subgroup":"콩과","item_ko":"완두콩(통조림)","item_en":"Green-peas (canned)","purine_mg":18.80,"source_year":2021},
-    {"id":"1-1-tofu","group":"식물성","subgroup":"콩과","item_ko":"두부","item_en":"Tofu","purine_mg":20.00,"source_year":2021},
-    {"id":"1-1-tofu-kinu","group":"식물성","subgroup":"콩과","item_ko":"두부(키누)","item_en":"Tofu (Kinu)","purine_mg":20.00,"source_year":2014},
-    {"id":"1-1-tofu-momen","group":"식물성","subgroup":"콩과","item_ko":"두부(모멘, 냉)","item_en":"Tofu (Momen, chilled)","purine_mg":31.10,"source_year":2014},
-    {"id":"1-1-tofu-momen-boiled","group":"식물성","subgroup":"콩과","item_ko":"두부(모멘, 3분 데침)","item_en":"Tofu (Momen, 3min boiled)","purine_mg":21.90,"source_year":2014},
-    {"id":"1-1-soymilk","group":"식물성","subgroup":"콩과","item_ko":"두유","item_en":"Soymilk","purine_mg":22.00,"source_year":2021},
-    {"id":"1-1-red-pea-dried","group":"식물성","subgroup":"콩과","item_ko":"붉은 완두(말린)","item_en":"Red pea (dried)","purine_mg":25.40,"source_year":2021},
-    {"id":"1-1-chickpea","group":"식물성","subgroup":"콩과","item_ko":"가르반조콩(병아리콩)","item_en":"Garbanzo beans (chickpeas)","purine_mg":26.10,"source_year":2021},
-    {"id":"1-1-faba-bean","group":"식물성","subgroup":"콩과","item_ko":"잠두","item_en":"Faba bean","purine_mg":35.50,"source_year":2021},
-    {"id":"1-1-broad-bean","group":"식물성","subgroup":"콩과","item_ko":"누에콩","item_en":"Broad bean","purine_mg":35.50,"source_year":2014},
-    {"id":"1-1-green-soybean","group":"식물성","subgroup":"콩과","item_ko":"풋콩(청대콩)","item_en":"Green soybean","purine_mg":47.90,"source_year":2021},
-    {"id":"1-1-okara","group":"식물성","subgroup":"콩과","item_ko":"콩비지(오카라)","item_en":"Bean curd lees (Okara)","purine_mg":48.60,"source_year":2021},
-    {"id":"1-1-deepfried-tofu","group":"식물성","subgroup":"콩과","item_ko":"튀긴 두부","item_en":"Deep-fried tofu","purine_mg":54.40,"source_year":2021},
-    {"id":"1-1-chia","group":"식물성","subgroup":"콩과","item_ko":"치아시드","item_en":"Chia seeds","purine_mg":58.60,"source_year":2021},
-    {"id":"1-1-black-soybean-dried","group":"식물성","subgroup":"콩과","item_ko":"검은콩(말린)","item_en":"Black soybean (dried)","purine_mg":67.10,"source_year":2021},
-    {"id":"1-1-azuki-dried","group":"식물성","subgroup":"콩과","item_ko":"팥(말린)","item_en":"Azuki bean (dried)","purine_mg":77.60,"source_year":2021},
-    {"id":"1-1-natto","group":"식물성","subgroup":"콩과","item_ko":"발효콩(낫또)","item_en":"Fermented soybean (Natto)","purine_mg":113.90,"source_year":2021},
-    {"id":"1-1-soybean-dried","group":"식물성","subgroup":"콩과","item_ko":"콩/대두(말린)","item_en":"Soybean (dried)","purine_mg":172.50,"source_year":2021},
-    {"id":"1-1-freeze-dried-tofu","group":"식물성","subgroup":"콩과","item_ko":"동결건조 두부","item_en":"Freeze-dried tofu","purine_mg":293.10,"source_year":2021},
-
-    {"id":"1-2-gelatin-noodle-dried","group":"식물성","subgroup":"곡물","item_ko":"젤라틴 건면","item_en":"Gelatin noodles (dried)","purine_mg":0.60,"source_year":2021},
-    {"id":"1-2-bread","group":"식물성","subgroup":"곡물","item_ko":"빵","item_en":"Bread","purine_mg":4.40,"source_year":2021},
-    {"id":"1-2-spaghetti","group":"식물성","subgroup":"곡물","item_ko":"스파게티","item_en":"Spaghetti","purine_mg":6.80,"source_year":2021},
-    {"id":"1-2-soba","group":"식물성","subgroup":"곡물","item_ko":"소바(메밀)","item_en":"Soba (buckwheat)","purine_mg":7.70,"source_year":2021},
-    {"id":"1-2-udon","group":"식물성","subgroup":"곡물","item_ko":"우동(밀가루면)","item_en":"Udon (wheat noodle)","purine_mg":12.10,"source_year":2021},
-    {"id":"1-2-flour-cake","group":"식물성","subgroup":"곡물","item_ko":"밀가루(박력분)","item_en":"Flour (cake flour)","purine_mg":15.70,"source_year":2021},
-    {"id":"1-2-flour-bread","group":"식물성","subgroup":"곡물","item_ko":"밀가루(강력분)","item_en":"Flour (bread flour)","purine_mg":25.80,"source_year":2014},
-    {"id":"1-2-rice-polished","group":"식물성","subgroup":"곡물","item_ko":"쌀(도정)","item_en":"Rice (polished)","purine_mg":25.90,"source_year":2021},
-    {"id":"1-2-rice-bud","group":"식물성","subgroup":"곡물","item_ko":"쌀(쌀눈)","item_en":"Rice (with the bud)","purine_mg":34.50,"source_year":2014},
-    {"id":"1-2-rice-unpolished","group":"식물성","subgroup":"곡물","item_ko":"쌀(무도정)","item_en":"Rice (unpolished)","purine_mg":37.40,"source_year":2021},
-    {"id":"1-2-buckwheat","group":"식물성","subgroup":"곡물","item_ko":"메밀","item_en":"Buckwheat","purine_mg":44.30,"source_year":2021},
-    {"id":"1-2-buckwheat-flour","group":"식물성","subgroup":"곡물","item_ko":"메밀가루","item_en":"Buckwheat flour","purine_mg":75.90,"source_year":2014},
-    {"id":"1-2-wheat-malt","group":"식물성","subgroup":"곡물","item_ko":"밀엿기름","item_en":"Wheat malt","purine_mg":135.40,"source_year":2021},
-
-    {"id":"1-3-strawberry","group":"식물성","subgroup":"과일","item_ko":"딸기","item_en":"Strawberry","purine_mg":2.20,"source_year":2021},
-    {"id":"1-3-banana","group":"식물성","subgroup":"과일","item_ko":"바나나","item_en":"Banana","purine_mg":3.00,"source_year":2021},
-    {"id":"1-3-cherry-tomato","group":"식물성","subgroup":"과일","item_ko":"방울토마토","item_en":"Cherry tomato","purine_mg":3.10,"source_year":2021},
-    {"id":"1-3-orange","group":"식물성","subgroup":"과일","item_ko":"오렌지","item_en":"Orange","purine_mg":4.13,"source_year":2021},
-    {"id":"1-3-pomelo","group":"식물성","subgroup":"과일","item_ko":"포멜로","item_en":"Pomelo","purine_mg":8.40,"source_year":2021},
-    {"id":"1-3-pineapple","group":"식물성","subgroup":"과일","item_ko":"파인애플","item_en":"Pineapple","purine_mg":11.48,"source_year":2021},
-
-    {"id":"1-4-konjac","group":"식물성","subgroup":"채소","item_ko":"곤약","item_en":"Konnyaku (konjac)","purine_mg":0.30,"source_year":2021},
-    {"id":"1-4-lotus-root","group":"식물성","subgroup":"채소","item_ko":"연근","item_en":"Lotus root","purine_mg":0.30,"source_year":2021},
-    {"id":"1-4-red-pepper","group":"식물성","subgroup":"채소","item_ko":"홍피망","item_en":"Red green pepper","purine_mg":0.90,"source_year":2021},
-    {"id":"1-4-radish-root","group":"식물성","subgroup":"채소","item_ko":"무(뿌리)","item_en":"Japanese radish (root)","purine_mg":1.70,"source_year":2021},
-    {"id":"1-4-taro","group":"식물성","subgroup":"채소","item_ko":"토란","item_en":"Satoimo (taro)","purine_mg":1.90,"source_year":2021},
-    {"id":"1-4-carrot","group":"식물성","subgroup":"채소","item_ko":"당근","item_en":"Carrot","purine_mg":2.20,"source_year":2021},
-    {"id":"1-4-ginger","group":"식물성","subgroup":"채소","item_ko":"생강","item_en":"Ginger","purine_mg":2.30,"source_year":2021},
-    {"id":"1-4-onion","group":"식물성","subgroup":"채소","item_ko":"양파","item_en":"Onion","purine_mg":2.30,"source_year":2021},
-    {"id":"1-4-tomato","group":"식물성","subgroup":"채소","item_ko":"토마토","item_en":"Tomato","purine_mg":3.10,"source_year":2021},
-    {"id":"1-4-cabbage","group":"식물성","subgroup":"채소","item_ko":"양배추","item_en":"Cabbage","purine_mg":3.20,"source_year":2021},
-    {"id":"1-4-turnip","group":"식물성","subgroup":"채소","item_ko":"순무","item_en":"Turnip","purine_mg":3.90,"source_year":2021},
-    {"id":"1-4-lettuce","group":"식물성","subgroup":"채소","item_ko":"상추","item_en":"Lettuce","purine_mg":4.60,"source_year":2021},
-    {"id":"1-4-burdock","group":"식물성","subgroup":"채소","item_ko":"우엉","item_en":"Burdock","purine_mg":5.10,"source_year":2021},
-    {"id":"1-4-chili","group":"식물성","subgroup":"채소","item_ko":"고추","item_en":"Capsicum (red pepper)","purine_mg":5.10,"source_year":2021},
-    {"id":"1-4-potato","group":"식물성","subgroup":"채소","item_ko":"감자","item_en":"Potato","purine_mg":6.50,"source_year":2021},
-    {"id":"1-4-chinese-cabbage","group":"식물성","subgroup":"채소","item_ko":"배추","item_en":"Chinese cabbage","purine_mg":7.00,"source_year":2021},
-    {"id":"1-4-cucumber","group":"식물성","subgroup":"채소","item_ko":"오이","item_en":"Cucumber","purine_mg":9.40,"source_year":2021},
-    {"id":"1-4-bitter-gourd","group":"식물성","subgroup":"채소","item_ko":"여주","item_en":"Bitter gourd","purine_mg":9.90,"source_year":2021},
-    {"id":"1-4-asparagus-lower","group":"식물성","subgroup":"채소","item_ko":"아스파라거스 아랫부분","item_en":"Asparagus Lower part","purine_mg":10.20,"source_year":2021},
-    {"id":"1-4-komatsuna-leaf","group":"식물성","subgroup":"채소","item_ko":"소송채 이파리","item_en":"Komatsuna Leaf","purine_mg":10.60,"source_year":2021},
-    {"id":"1-4-corn","group":"식물성","subgroup":"채소","item_ko":"옥수수","item_en":"Corn","purine_mg":11.70,"source_year":2021},
-    {"id":"1-4-zucchini","group":"식물성","subgroup":"채소","item_ko":"주키니호박","item_en":"Zucchini","purine_mg":13.10,"source_year":2021},
-    {"id":"1-4-garlic","group":"식물성","subgroup":"채소","item_ko":"마늘","item_en":"Garlic","purine_mg":17.00,"source_year":2021},
-    {"id":"1-4-sweet-potato","group":"식물성","subgroup":"채소","item_ko":"고구마","item_en":"Sweet potato","purine_mg":17.00,"source_year":2021},
-    {"id":"1-4-avocado","group":"식물성","subgroup":"채소","item_ko":"아보카도","item_en":"Avocado","purine_mg":18.40,"source_year":2021},
-    {"id":"1-4-nira","group":"식물성","subgroup":"채소","item_ko":"부추","item_en":"Garlic chives (nira)","purine_mg":19.40,"source_year":2021},
-    {"id":"1-4-bamboo-lower","group":"식물성","subgroup":"채소","item_ko":"죽순 아랫부분","item_en":"Bamboo shoot Lower part","purine_mg":30.80,"source_year":2021},
-    {"id":"1-4-bean-sprouts","group":"식물성","subgroup":"채소","item_ko":"콩나물","item_en":"Bean sprouts","purine_mg":35.00,"source_year":2021},
-    {"id":"1-4-komatsuna-young","group":"식물성","subgroup":"채소","item_ko":"소송채 어린잎","item_en":"Komatsuna Young leaf","purine_mg":39.00,"source_year":2021},
-    {"id":"1-4-okura","group":"식물성","subgroup":"채소","item_ko":"검보(오쿠라)","item_en":"Gumbo (okura)","purine_mg":39.50,"source_year":2021},
-    {"id":"1-4-negi","group":"식물성","subgroup":"채소","item_ko":"대파","item_en":"Japanese leek (negi)","purine_mg":41.40,"source_year":2021},
-    {"id":"1-4-perilla","group":"식물성","subgroup":"채소","item_ko":"들깻잎","item_en":"Perilla frutescens leaves","purine_mg":41.40,"source_year":2021},
-    {"id":"1-4-eggplant","group":"식물성","subgroup":"채소","item_ko":"가지","item_en":"Eggplant","purine_mg":50.70,"source_year":2021},
-    {"id":"1-4-spinach-leaf","group":"식물성","subgroup":"채소","item_ko":"시금치 잎","item_en":"Spinach Leaf","purine_mg":51.40,"source_year":2021},
-    {"id":"1-4-asparagus-upper","group":"식물성","subgroup":"채소","item_ko":"아스파라거스 윗부분","item_en":"Asparagus Upper part","purine_mg":55.30,"source_year":2021},
-    {"id":"1-4-pumpkin","group":"식물성","subgroup":"채소","item_ko":"단호박","item_en":"Japanese pumpkin","purine_mg":56.60,"source_year":2021},
-    {"id":"1-4-cauliflower","group":"식물성","subgroup":"채소","item_ko":"콜리플라워","item_en":"Cauliflower","purine_mg":57.20,"source_year":2021},
-    {"id":"1-4-sprouts","group":"식물성","subgroup":"채소","item_ko":"숙주나물(녹두 포함)","item_en":"Sprouts (with bean)","purine_mg":57.30,"source_year":2021},
-    {"id":"1-4-bamboo-upper","group":"식물성","subgroup":"채소","item_ko":"죽순 윗부분","item_en":"Bamboo shoot Upper part","purine_mg":63.30,"source_year":2021},
-    {"id":"1-4-green-pepper","group":"식물성","subgroup":"채소","item_ko":"청피망","item_en":"Green pepper","purine_mg":69.20,"source_year":2021},
-    {"id":"1-4-broccoli","group":"식물성","subgroup":"채소","item_ko":"브로콜리","item_en":"Broccoli","purine_mg":70.00,"source_year":2021},
-    {"id":"1-4-broccoli-sprout","group":"식물성","subgroup":"채소","item_ko":"브로콜리 새싹","item_en":"Broccoli sprout","purine_mg":129.60,"source_year":2014},
-    {"id":"1-4-spinach-young","group":"식물성","subgroup":"채소","item_ko":"시금치 어린잎","item_en":"Spinach Young Leaf","purine_mg":171.80,"source_year":2014},
-    {"id":"1-4-parsley","group":"식물성","subgroup":"채소","item_ko":"파슬리","item_en":"Parsley","purine_mg":288.90,"source_year":2021},
-
-    {"id":"1-5-peanut","group":"식물성","subgroup":"견과","item_ko":"땅콩","item_en":"Peanut","purine_mg":49.10,"source_year":2021},
-    {"id":"1-5-cashew","group":"식물성","subgroup":"견과","item_ko":"캐슈","item_en":"Cashew","purine_mg":71.34,"source_year":2021},
-    {"id":"1-5-pumpkin-seed","group":"식물성","subgroup":"견과","item_ko":"호박씨","item_en":"Pumpkin seeds","purine_mg":60.76,"source_year":2021},
-    {"id":"1-5-hickory","group":"식물성","subgroup":"견과","item_ko":"히코리넛","item_en":"Hickory","purine_mg":40.44,"source_year":2021},
-    {"id":"1-5-almond","group":"식물성","subgroup":"견과","item_ko":"아몬드","item_en":"Almond","purine_mg":31.40,"source_year":2021},
-    {"id":"1-5-walnut","group":"식물성","subgroup":"견과","item_ko":"호두","item_en":"Walnut","purine_mg":19.60,"source_year":2021},
-
-    {"id":"2-white-oragekikurage","group":"버섯/해조","subgroup":"버섯","item_ko":"흰 목이버섯","item_en":"White aragekikurage","purine_mg":6.90,"source_year":2021},
-    {"id":"2-nameko-big","group":"버섯/해조","subgroup":"버섯","item_ko":"맛비늘버섯(대형)","item_en":"Nameko (big type)","purine_mg":9.50,"source_year":2021},
-    {"id":"2-enoki","group":"버섯/해조","subgroup":"버섯","item_ko":"팽이버섯","item_en":"Enokidake","purine_mg":49.40,"source_year":2021},
-    {"id":"2-eringi","group":"버섯/해조","subgroup":"버섯","item_ko":"새송이버섯","item_en":"Eringi","purine_mg":13.40,"source_year":2021},
-
-    {"id":"2-seaweed-wakame","group":"버섯/해조","subgroup":"해조","item_ko":"미역","item_en":"Wakame","purine_mg":2.00,"source_year":2021},
-    {"id":"2-seaweed-nori","group":"버섯/해조","subgroup":"해조","item_ko":"김","item_en":"Nori","purine_mg":26.70,"source_year":2021},
-    {"id":"2-seaweed-kombu","group":"버섯/해조","subgroup":"해조","item_ko":"다시마","item_en":"Kombu","purine_mg":3.70,"source_year":2021},
-
-    {"id":"3-1-beef-lean","group":"동물성","subgroup":"육류","item_ko":"쇠고기(살코기)","item_en":"Beef (lean)","purine_mg":62.40,"source_year":2021},
-    {"id":"3-1-beef-fat","group":"동물성","subgroup":"육류","item_ko":"쇠고기(지방)","item_en":"Beef (fat)","purine_mg":42.50,"source_year":2021},
-    {"id":"3-1-pork-lean","group":"동물성","subgroup":"육류","item_ko":"돼지고기(살코기)","item_en":"Pork (lean)","purine_mg":69.90,"source_year":2021},
-    {"id":"3-1-pork-fat","group":"동물성","subgroup":"육류","item_ko":"돼지고기(지방)","item_en":"Pork (fat)","purine_mg":43.30,"source_year":2021},
-    {"id":"3-1-chicken-lean","group":"동물성","subgroup":"육류","item_ko":"닭고기(살코기)","item_en":"Chicken (lean)","purine_mg":61.30,"source_year":2021},
-    {"id":"3-1-chicken-skin","group":"동물성","subgroup":"육류","item_ko":"닭고기(피부)","item_en":"Chicken (skin)","purine_mg":36.80,"source_year":2021},
-    {"id":"3-1-ham","group":"동물성","subgroup":"육류","item_ko":"햄","item_en":"Ham","purine_mg":52.90,"source_year":2021},
-    {"id":"3-1-sausage","group":"동물성","subgroup":"육류","item_ko":"소시지","item_en":"Sausage","purine_mg":63.30,"source_year":2021},
-
-    {"id":"3-2-liver-beef","group":"동물성","subgroup":"내장","item_ko":"소 간","item_en":"Beef liver","purine_mg":190.60,"source_year":2021},
-    {"id":"3-2-liver-pork","group":"동물성","subgroup":"내장","item_ko":"돼지 간","item_en":"Pork liver","purine_mg":182.70,"source_year":2021},
-    {"id":"3-2-liver-chicken","group":"동물성","subgroup":"내장","item_ko":"닭 간","item_en":"Chicken liver","purine_mg":191.10,"source_year":2021},
-    {"id":"3-2-kidney-beef","group":"동물성","subgroup":"내장","item_ko":"소 신장","item_en":"Beef kidney","purine_mg":147.50,"source_year":2021},
-    {"id":"3-2-kidney-pork","group":"동물성","subgroup":"내장","item_ko":"돼지 신장","item_en":"Pork kidney","purine_mg":104.50,"source_year":2021},
-    {"id":"3-2-heart-beef","group":"동물성","subgroup":"내장","item_ko":"소 심장","item_en":"Beef heart","purine_mg":135.30,"source_year":2021},
-    {"id":"3-2-brain-beef","group":"동물성","subgroup":"내장","item_ko":"소 뇌","item_en":"Beef brain","purine_mg":97.40,"source_year":2021},
-
-    {"id":"4-1-salmon","group":"수산물","subgroup":"생선","item_ko":"연어","item_en":"Salmon","purine_mg":119.10,"source_year":2021},
-    {"id":"4-1-mackerel","group":"수산물","subgroup":"생선","item_ko":"고등어","item_en":"Mackerel","purine_mg":206.20,"source_year":2021},
-    {"id":"4-1-tuna","group":"수산물","subgroup":"생선","item_ko":"참치","item_en":"Tuna","purine_mg":156.90,"source_year":2021},
-    {"id":"4-1-sardine","group":"수산물","subgroup":"생선","item_ko":"정어리","item_en":"Sardine","purine_mg":480.00,"source_year":2021},
-    {"id":"4-1-trout","group":"수산물","subgroup":"생선","item_ko":"송어","item_en":"Trout","purine_mg":123.50,"source_year":2021},
-    {"id":"4-1-herring","group":"수산물","subgroup":"생선","item_ko":"청어","item_en":"Herring","purine_mg":161.80,"source_year":2021},
-    {"id":"4-1-white-fish","group":"수산물","subgroup":"생선","item_ko":"흰살 생선(대구)","item_en":"White fish (Cod)","purine_mg":46.10,"source_year":2021},
-    {"id":"4-1-flounder","group":"수산물","subgroup":"생선","item_ko":"넙치(광어)","item_en":"Flounder","purine_mg":63.30,"source_year":2021},
-    {"id":"4-1-sole","group":"수산물","subgroup":"생선","item_ko":"가자미","item_en":"Sole","purine_mg":38.90,"source_year":2021},
-
-    {"id":"4-2-shrimp","group":"수산물","subgroup":"갑각류","item_ko":"새우","item_en":"Shrimp","purine_mg":120.60,"source_year":2021},
-    {"id":"4-2-crab","group":"수산물","subgroup":"갑각류","item_ko":"게","item_en":"Crab","purine_mg":155.60,"source_year":2021},
-    {"id":"4-2-lobster","group":"수산물","subgroup":"갑각류","item_ko":"랍스터(바닷가재)","item_en":"Lobster","purine_mg":119.20,"source_year":2021},
-
-    {"id":"4-3-scallop","group":"수산물","subgroup":"연체류","item_ko":"가리비(굴)","item_en":"Scallop","purine_mg":190.00,"source_year":2021},
-    {"id":"4-3-oyster","group":"수산물","subgroup":"연체류","item_ko":"굴","item_en":"Oyster","purine_mg":239.70,"source_year":2021},
-    {"id":"4-3-clam","group":"수산물","subgroup":"연체류","item_ko":"조개","item_en":"Clam","purine_mg":172.60,"source_year":2021},
-    {"id":"4-3-squid","group":"수산물","subgroup":"연체류","item_ko":"오징어","item_en":"Squid","purine_mg":178.10,"source_year":2021},
-    {"id":"4-3-octopus","group":"수산물","subgroup":"연체류","item_ko":"낙지","item_en":"Octopus","purine_mg":149.70,"source_year":2021},
-
-    {"id":"5-1-beef-broth","group":"양념/보충","subgroup":"국물/육수","item_ko":"소고기 육수","item_en":"Beef broth","purine_mg":34.80,"source_year":2021},
-    {"id":"5-1-chicken-broth","group":"양념/보충","subgroup":"국물/육수","item_ko":"닭고기 육수","item_en":"Chicken broth","purine_mg":28.50,"source_year":2021},
-    {"id":"5-1-fish-broth","group":"양념/보충","subgroup":"국물/육수","item_ko":"생선 육수","item_en":"Fish broth","purine_mg":47.30,"source_year":2021},
-
-    {"id":"5-2-beer","group":"양념/보충","subgroup":"음료","item_ko":"맥주","item_en":"Beer","purine_mg":7.60,"source_year":2021},
-    {"id":"5-2-wine","group":"양념/보충","subgroup":"음료","item_ko":"와인","item_en":"Wine","purine_mg":0.90,"source_year":2021},
-    {"id":"5-2-whiskey","group":"양념/보충","subgroup":"음료","item_ko":"위스키","item_en":"Whiskey","purine_mg":0.00,"source_year":2021},
-    {"id":"5-2-coffee","group":"양념/보충","subgroup":"음료","item_ko":"커피","item_en":"Coffee","purine_mg":12.10,"source_year":2021},
-    {"id":"5-2-green-tea","group":"양념/보충","subgroup":"음료","item_ko":"녹차","item_en":"Green tea","purine_mg":0.50,"source_year":2021},
-    {"id":"5-2-black-tea","group":"양념/보충","subgroup":"음료","item_ko":"홍차","item_en":"Black tea","purine_mg":0.50,"source_year":2021},
-    {"id":"5-2-milk","group":"양념/보충","subgroup":"음료","item_ko":"우유","item_en":"Milk","purine_mg":1.90,"source_year":2021},
-    {"id":"5-2-orange-juice","group":"양념/보충","subgroup":"음료","item_ko":"오렌지 주스","item_en":"Orange juice","purine_mg":2.20,"source_year":2021},
-
-    {"id":"5-3-egg","group":"양념/보충","subgroup":"기타","item_ko":"계란","item_en":"Egg","purine_mg":2.50,"source_year":2021},
-    {"id":"5-3-cheese","group":"양념/보충","subgroup":"기타","item_ko":"치즈","item_en":"Cheese","purine_mg":5.90,"source_year":2021},
-    {"id":"5-3-butter","group":"양념/보충","subgroup":"기타","item_ko":"버터","item_en":"Butter","purine_mg":0.00,"source_year":2021},
-    {"id":"5-3-honey","group":"양념/보충","subgroup":"기타","item_ko":"꿀","item_en":"Honey","purine_mg":0.10,"source_year":2021},
-
-    {"id":"2-shiitake-raw","group":"버섯/해조","subgroup":"버섯","item_ko":"생표고버섯","item_en":"Shiitake (raw)","purine_mg":20.8,"source_year":2021},
-    {"id":"2-shiitake-dried","group":"버섯/해조","subgroup":"버섯","item_ko":"건표고버섯","item_en":"Shiitake (dried)","purine_mg":379.5,"source_year":2014},
-    {"id":"2-maitake","group":"버섯/해조","subgroup":"버섯","item_ko":"잎새버섯","item_en":"Maitake","purine_mg":98.5,"source_year":2021},
-    {"id":"2-oyster-mushroom","group":"버섯/해조","subgroup":"버섯","item_ko":"느타리버섯","item_en":"Hiratake","purine_mg":142.3,"source_year":2021},
-    {"id":"2-dried-seaweed-wakame","group":"버섯/해조","subgroup":"해조","item_ko":"건미역","item_en":"Wakame (Dried)","purine_mg":379.5,"source_year":2021},
-    {"id":"2-dried-seaweed-nori","group":"버섯/해조","subgroup":"해조","item_ko":"말린 김","item_en":"Nori (Dried)","purine_mg":591.7,"source_year":2021},
-    {"id":"2-hijiki-dried","group":"버섯/해조","subgroup":"해조","item_ko":"말린 톳","item_en":"Hijiki (Dried)","purine_mg":132.8,"source_year":2021},
-
-    {"id":"3-beef-general","group":"동물성","subgroup":"육류","item_ko":"소고기","item_en":"Beef","purine_mg":85.7,"source_year":2021},
-    {"id":"3-pork-general","group":"동물성","subgroup":"육류","item_ko":"돼지고기","item_en":"Pork","purine_mg":76.25,"source_year":2021},
-    {"id":"3-chicken-general","group":"동물성","subgroup":"육류","item_ko":"닭","item_en":"Chicken","purine_mg":142.37,"source_year":2021},
-    {"id":"3-duck-general","group":"동물성","subgroup":"육류","item_ko":"오리","item_en":"Duck","purine_mg":96.22,"source_year":2021},
-    {"id":"3-chicken-breast","group":"동물성","subgroup":"육류","item_ko":"닭가슴살","item_en":"Chicken breast","purine_mg":141.2,"source_year":2021},
-    {"id":"3-chicken-thigh","group":"동물성","subgroup":"육류","item_ko":"닭다리","item_en":"Chicken leg","purine_mg":122.9,"source_year":2021},
-    {"id":"3-chicken-wing","group":"동물성","subgroup":"육류","item_ko":"닭 날개","item_en":"Chicken wing","purine_mg":137.5,"source_year":2021},
-    {"id":"3-ham-boneless","group":"동물성","subgroup":"육류","item_ko":"순살 햄","item_en":"Boneless ham","purine_mg":74.2,"source_year":2021},
-    {"id":"3-bacon","group":"동물성","subgroup":"육류","item_ko":"베이컨","item_en":"Bacon","purine_mg":61.8,"source_year":2021},
-    {"id":"3-prosciutto","group":"동물성","subgroup":"육류","item_ko":"프로슈토 (파르마 햄)","item_en":"Prosciutto (Parma ham)","purine_mg":138.3,"source_year":2021},
-    {"id":"3-salami","group":"동물성","subgroup":"육류","item_ko":"살라미","item_en":"Salami","purine_mg":120.4,"source_year":2021},
-
-    {"id":"3-beef-liver","group":"동물성","subgroup":"내장","item_ko":"소 간","item_en":"Beef liver","purine_mg":219.8,"source_year":2021},
-    {"id":"3-pork-liver","group":"동물성","subgroup":"내장","item_ko":"돼지 간","item_en":"Pork liver","purine_mg":284.8,"source_year":2021},
-    {"id":"3-chicken-liver","group":"동물성","subgroup":"내장","item_ko":"닭 간","item_en":"Chicken liver","purine_mg":312.2,"source_year":2021},
-    {"id":"3-duck-liver","group":"동물성","subgroup":"내장","item_ko":"오리 간","item_en":"Duck liver","purine_mg":397.9,"source_year":2021},
-    {"id":"3-goose-liver","group":"동물성","subgroup":"내장","item_ko":"거위 간","item_en":"Goose liver","purine_mg":376.9,"source_year":2021},
-    {"id":"3-beef-kidney","group":"동물성","subgroup":"내장","item_ko":"소 콩팥","item_en":"Beef kidney","purine_mg":174.2,"source_year":2021},
-    {"id":"3-pork-kidney","group":"동물성","subgroup":"내장","item_ko":"돼지 콩팥","item_en":"Pork kidney","purine_mg":195.0,"source_year":2021},
-    {"id":"3-beef-heart","group":"동물성","subgroup":"내장","item_ko":"소 염통","item_en":"Beef heart","purine_mg":185.0,"source_year":2021},
-    {"id":"3-pork-heart","group":"동물성","subgroup":"내장","item_ko":"돼지 염통","item_en":"Pork heart","purine_mg":119.2,"source_year":2021},
-    {"id":"3-chicken-heart","group":"동물성","subgroup":"내장","item_ko":"닭 염통","item_en":"Chicken heart","purine_mg":125.4,"source_year":2021},
-    {"id":"3-chicken-gizzard","group":"동물성","subgroup":"내장","item_ko":"닭 근위","item_en":"Chicken gizzard","purine_mg":142.9,"source_year":2021},
-    {"id":"3-beef-tongue","group":"동물성","subgroup":"내장","item_ko":"소 혀","item_en":"Beef tongue","purine_mg":90.4,"source_year":2021},
-    {"id":"3-pork-tongue","group":"동물성","subgroup":"내장","item_ko":"돼지 혀","item_en":"Pork tongue","purine_mg":104.0,"source_year":2021},
-
-    {"id":"3-egg","group":"양념/보충","subgroup":"유제품","item_ko":"달걀","item_en":"Chicken egg","purine_mg":0.0,"source_year":2021},
-    {"id":"3-quail-egg","group":"양념/보충","subgroup":"유제품","item_ko":"메추라기 알","item_en":"Quail egg","purine_mg":0.0,"source_year":2021},
-    {"id":"3-yogurt","group":"양념/보충","subgroup":"유제품","item_ko":"요거트","item_en":"Yogurt","purine_mg":5.2,"source_year":2021},
-    {"id":"3-grated-cheese","group":"양념/보충","subgroup":"유제품","item_ko":"간 치즈","item_en":"Grated cheese","purine_mg":12.9,"source_year":2021},
-
-    {"id":"4-cod","group":"수산물","subgroup":"생선","item_ko":"대구","item_en":"Cod","purine_mg":98.0,"source_year":2021},
-    {"id":"4-eel","group":"수산물","subgroup":"생선","item_ko":"뱀장어","item_en":"Japanese eel","purine_mg":92.1,"source_year":2021},
-    {"id":"4-conger-eel","group":"수산물","subgroup":"생선","item_ko":"붕장어","item_en":"Conger eel","purine_mg":95.4,"source_year":2021},
-    {"id":"4-sea-bass","group":"수산물","subgroup":"생선","item_ko":"농어","item_en":"Japanese seabass","purine_mg":119.5,"source_year":2021},
-    {"id":"4-red-seabream","group":"수산물","subgroup":"생선","item_ko":"참돔","item_en":"Red seabream","purine_mg":128.9,"source_year":2021},
-    {"id":"4-swordfish","group":"수산물","subgroup":"생선","item_ko":"황새치","item_en":"Swordfish","purine_mg":132.1,"source_year":2021},
-    {"id":"4-ayu","group":"수산물","subgroup":"생선","item_ko":"은어","item_en":"Ayu","purine_mg":133.1,"source_year":2021},
-    {"id":"4-spanish-mackerel","group":"수산물","subgroup":"생선","item_ko":"삼치","item_en":"Spanish mackerel","purine_mg":139.3,"source_year":2021},
-    {"id":"4-pacific-saury","group":"수산물","subgroup":"생선","item_ko":"꽁치","item_en":"Pacific saury","purine_mg":154.9,"source_year":2021},
-    {"id":"4-squid","group":"수산물","subgroup":"생선","item_ko":"오징어","item_en":"Spear squid","purine_mg":160.5,"source_year":2021},
-    {"id":"4-jack-mackerel","group":"수산물","subgroup":"생선","item_ko":"전갱이","item_en":"Jack mackerel","purine_mg":165.3,"source_year":2021},
-    {"id":"4-rainbow-trout","group":"수산물","subgroup":"생선","item_ko":"무지개송어","item_en":"Rainbow trout","purine_mg":180.9,"source_year":2021},
-    {"id":"4-bonito","group":"수산물","subgroup":"생선","item_ko":"가다랑어","item_en":"Bonito","purine_mg":211.4,"source_year":2021},
-    {"id":"4-anchovy","group":"수산물","subgroup":"생선","item_ko":"멸치","item_en":"Anchovy","purine_mg":303.9,"source_year":2021},
-    {"id":"4-cutlassfish","group":"수산물","subgroup":"생선","item_ko":"갈치","item_en":"Cutlassfish (hairtail)","purine_mg":385.4,"source_year":2021},
-
-    {"id":"4-shrimp-botan","group":"수산물","subgroup":"갑각류","item_ko":"도화새우","item_en":"Botan shrimp","purine_mg":53.4,"source_year":2021},
-    {"id":"4-spiny-lobster","group":"수산물","subgroup":"갑각류","item_ko":"닭새우","item_en":"Spiny lobster","purine_mg":102.1,"source_year":2021},
-    {"id":"4-shiba-shrimp","group":"수산물","subgroup":"갑각류","item_ko":"중하","item_en":"Shiba shrimp","purine_mg":144.2,"source_year":2021},
-    {"id":"4-kuruma-shrimp","group":"수산물","subgroup":"갑각류","item_ko":"보리새우","item_en":"Kuruma shrimp","purine_mg":195.3,"source_year":2021},
-    {"id":"4-oriental-shrimp","group":"수산물","subgroup":"갑각류","item_ko":"대하","item_en":"Oriental shrimp","purine_mg":273.2,"source_year":2021},
-    {"id":"4-snow-crab","group":"수산물","subgroup":"갑각류","item_ko":"대게","item_en":"Snow crab","purine_mg":136.4,"source_year":2021},
-    {"id":"4-red-king-crab","group":"수산물","subgroup":"갑각류","item_ko":"(붉은)왕게","item_en":"Red king crab","purine_mg":99.6,"source_year":2021},
-
-    {"id":"4-common-clam","group":"수산물","subgroup":"연체류","item_ko":"백합","item_en":"Common orient clam","purine_mg":104.5,"source_year":2021},
-    {"id":"4-clam-general","group":"수산물","subgroup":"연체류","item_ko":"조개","item_en":"Clam","purine_mg":145.5,"source_year":2021},
-    {"id":"4-octopus-general","group":"수산물","subgroup":"연체류","item_ko":"문어","item_en":"Octopus","purine_mg":137.3,"source_year":2021},
-    {"id":"4-sea-urchin","group":"수산물","subgroup":"연체류","item_ko":"성게","item_en":"Sea Urchin","purine_mg":137.3,"source_year":2021},
-    {"id":"4-sea-cucumber","group":"수산물","subgroup":"연체류","item_ko":"해삼","item_en":"Sea cucumber","purine_mg":5.5,"source_year":2021},
-    {"id":"4-scallop-japanese","group":"수산물","subgroup":"연체류","item_ko":"가리비","item_en":"Japanese scallop","purine_mg":76.5,"source_year":2021},
-    {"id":"4-flying-squid","group":"수산물","subgroup":"연체류","item_ko":"살오징어","item_en":"Japanese flying squid","purine_mg":186.8,"source_year":2021},
-
-    {"id":"5-soy-sauce-dark","group":"양념/보충","subgroup":"양념/소스","item_ko":"진간장(노추)","item_en":"Soy sauce Dark color","purine_mg":45.2,"source_year":2021},
-    {"id":"5-soy-sauce-light","group":"양념/보충","subgroup":"양념/소스","item_ko":"연간장","item_en":"Soy sauce Light color","purine_mg":55.3,"source_year":2021},
-    {"id":"5-white-miso","group":"양념/보충","subgroup":"양념/소스","item_ko":"백된장(하얀미소)","item_en":"Miso White miso","purine_mg":48.8,"source_year":2021},
-    {"id":"5-red-miso","group":"양념/보충","subgroup":"양념/소스","item_ko":"대두된장(아카미소)","item_en":"Miso Red miso","purine_mg":63.5,"source_year":2021},
-    {"id":"5-fish-sauce","group":"양념/보충","subgroup":"양념/소스","item_ko":"피시소스","item_en":"Fish sauce (Nampla)","purine_mg":93.1,"source_year":2021},
-    {"id":"5-oyster-sauce","group":"양념/보충","subgroup":"양념/소스","item_ko":"굴소스","item_en":"Oyster sauce","purine_mg":134.4,"source_year":2021},
-    {"id":"5-sake-lees","group":"양념/보충","subgroup":"양념/소스","item_ko":"술지게미","item_en":"Sake lees","purine_mg":89.2,"source_year":2021},
-    {"id":"5-rice-bran","group":"양념/보충","subgroup":"양념/소스","item_ko":"쌀겨","item_en":"Rice bran","purine_mg":100.2,"source_year":2021},
-
-    {"id":"5-beer","group":"양념/보충","subgroup":"음료","item_ko":"맥주","item_en":"Beer","purine_mg":7.6,"source_year":2021},
-    {"id":"5-beer-yeast","group":"양념/보충","subgroup":"보충제","item_ko":"맥주 효모","item_en":"Beer yeast","purine_mg":2995.7,"source_year":2021},
-    {"id":"5-spirulina","group":"양념/보충","subgroup":"보충제","item_ko":"스피룰리나","item_en":"Spirulina","purine_mg":1076.8,"source_year":2021},
-    {"id":"5-chlorella","group":"양념/보충","subgroup":"보충제","item_ko":"클로렐라","item_en":"Chlorella","purine_mg":3182.7,"source_year":2021},
-    {"id":"5-yeast-dried","group":"양념/보충","subgroup":"보충제","item_ko":"이스트/효모(말린)","item_en":"Yeast (dried)","purine_mg":847.1,"source_year":2021},
-    {"id":"5-euglena-dried","group":"양념/보충","subgroup":"보충제","item_ko":"유글레나(말린)","item_en":"Euglena (dried)","purine_mg":379.9,"source_year":2021},
-    {"id":"5-royal-jelly","group":"양념/보충","subgroup":"보충제","item_ko":"로열젤리","item_en":"Royal jelly","purine_mg":403.4,"source_year":2021}
-  ]
+        "unit": "mg purine / 100g",
+        "source_priority": "2021 우선, 2014 보완"
+    },
+    "rows": [
+        {
+            "id": "1-1-green-bean",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "그린빈",
+            "item_en": "Green bean",
+            "purine_mg": 7.4,
+            "source_year": 2021
+        },
+        {
+            "id": "1-1-green-peas-canned",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "완두콩(통조림)",
+            "item_en": "Green-peas (canned)",
+            "purine_mg": 18.8,
+            "source_year": 2021
+        },
+        {
+            "id": "1-1-tofu",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "두부",
+            "item_en": "Tofu",
+            "purine_mg": 20.0,
+            "source_year": 2021
+        },
+        {
+            "id": "1-1-tofu-kinu",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "두부(키누)",
+            "item_en": "Tofu (Kinu)",
+            "purine_mg": 20.0,
+            "source_year": 2014
+        },
+        {
+            "id": "1-1-tofu-momen",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "두부(모멘, 냉)",
+            "item_en": "Tofu (Momen, chilled)",
+            "purine_mg": 31.1,
+            "source_year": 2014
+        },
+        {
+            "id": "1-1-tofu-momen-boiled",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "두부(모멘, 3분 데침)",
+            "item_en": "Tofu (Momen, 3min boiled)",
+            "purine_mg": 21.9,
+            "source_year": 2014
+        },
+        {
+            "id": "1-1-soymilk",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "두유",
+            "item_en": "Soymilk",
+            "purine_mg": 22.0,
+            "source_year": 2021
+        },
+        {
+            "id": "1-1-red-pea-dried",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "붉은 완두(말린)",
+            "item_en": "Red pea (dried)",
+            "purine_mg": 25.4,
+            "source_year": 2021
+        },
+        {
+            "id": "1-1-chickpea",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "가르반조콩(병아리콩)",
+            "item_en": "Garbanzo beans (chickpeas)",
+            "purine_mg": 26.1,
+            "source_year": 2021
+        },
+        {
+            "id": "1-1-faba-bean",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "잠두",
+            "item_en": "Faba bean",
+            "purine_mg": 35.5,
+            "source_year": 2021
+        },
+        {
+            "id": "1-1-broad-bean",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "누에콩",
+            "item_en": "Broad bean",
+            "purine_mg": 35.5,
+            "source_year": 2014
+        },
+        {
+            "id": "1-1-green-soybean",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "풋콩(청대콩)",
+            "item_en": "Green soybean",
+            "purine_mg": 47.9,
+            "source_year": 2021
+        },
+        {
+            "id": "1-1-okara",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "콩비지(오카라)",
+            "item_en": "Bean curd lees (Okara)",
+            "purine_mg": 48.6,
+            "source_year": 2021
+        },
+        {
+            "id": "1-1-deepfried-tofu",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "튀긴 두부",
+            "item_en": "Deep-fried tofu",
+            "purine_mg": 54.4,
+            "source_year": 2021
+        },
+        {
+            "id": "1-1-chia",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "치아시드",
+            "item_en": "Chia seeds",
+            "purine_mg": 58.6,
+            "source_year": 2021
+        },
+        {
+            "id": "1-1-black-soybean-dried",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "검은콩(말린)",
+            "item_en": "Black soybean (dried)",
+            "purine_mg": 67.1,
+            "source_year": 2021
+        },
+        {
+            "id": "1-1-azuki-dried",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "팥(말린)",
+            "item_en": "Azuki bean (dried)",
+            "purine_mg": 77.6,
+            "source_year": 2021
+        },
+        {
+            "id": "1-1-natto",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "발효콩(낫또)",
+            "item_en": "Fermented soybean (Natto)",
+            "purine_mg": 113.9,
+            "source_year": 2021
+        },
+        {
+            "id": "1-1-soybean-dried",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "콩/대두(말린)",
+            "item_en": "Soybean (dried)",
+            "purine_mg": 172.5,
+            "source_year": 2021
+        },
+        {
+            "id": "1-1-freeze-dried-tofu",
+            "group": "식물성",
+            "subgroup": "콩과",
+            "item_ko": "동결건조 두부",
+            "item_en": "Freeze-dried tofu",
+            "purine_mg": 293.1,
+            "source_year": 2021
+        },
+        {
+            "id": "1-2-gelatin-noodle-dried",
+            "group": "식물성",
+            "subgroup": "곡물",
+            "item_ko": "젤라틴 건면",
+            "item_en": "Gelatin noodles (dried)",
+            "purine_mg": 0.6,
+            "source_year": 2021
+        },
+        {
+            "id": "1-2-bread",
+            "group": "식물성",
+            "subgroup": "곡물",
+            "item_ko": "빵",
+            "item_en": "Bread",
+            "purine_mg": 4.4,
+            "source_year": 2021
+        },
+        {
+            "id": "1-2-spaghetti",
+            "group": "식물성",
+            "subgroup": "곡물",
+            "item_ko": "스파게티",
+            "item_en": "Spaghetti",
+            "purine_mg": 6.8,
+            "source_year": 2021
+        },
+        {
+            "id": "1-2-soba",
+            "group": "식물성",
+            "subgroup": "곡물",
+            "item_ko": "소바(메밀)",
+            "item_en": "Soba (buckwheat)",
+            "purine_mg": 7.7,
+            "source_year": 2021
+        },
+        {
+            "id": "1-2-udon",
+            "group": "식물성",
+            "subgroup": "곡물",
+            "item_ko": "우동(밀가루면)",
+            "item_en": "Udon (wheat noodle)",
+            "purine_mg": 12.1,
+            "source_year": 2021
+        },
+        {
+            "id": "1-2-flour-cake",
+            "group": "식물성",
+            "subgroup": "곡물",
+            "item_ko": "밀가루(박력분)",
+            "item_en": "Flour (cake flour)",
+            "purine_mg": 15.7,
+            "source_year": 2021
+        },
+        {
+            "id": "1-2-flour-bread",
+            "group": "식물성",
+            "subgroup": "곡물",
+            "item_ko": "밀가루(강력분)",
+            "item_en": "Flour (bread flour)",
+            "purine_mg": 25.8,
+            "source_year": 2014
+        },
+        {
+            "id": "1-2-rice-polished",
+            "group": "식물성",
+            "subgroup": "곡물",
+            "item_ko": "쌀(도정)",
+            "item_en": "Rice (polished)",
+            "purine_mg": 25.9,
+            "source_year": 2021
+        },
+        {
+            "id": "1-2-rice-bud",
+            "group": "식물성",
+            "subgroup": "곡물",
+            "item_ko": "쌀(쌀눈)",
+            "item_en": "Rice (with the bud)",
+            "purine_mg": 34.5,
+            "source_year": 2014
+        },
+        {
+            "id": "1-2-rice-unpolished",
+            "group": "식물성",
+            "subgroup": "곡물",
+            "item_ko": "쌀(무도정)",
+            "item_en": "Rice (unpolished)",
+            "purine_mg": 37.4,
+            "source_year": 2021
+        },
+        {
+            "id": "1-2-buckwheat",
+            "group": "식물성",
+            "subgroup": "곡물",
+            "item_ko": "메밀",
+            "item_en": "Buckwheat",
+            "purine_mg": 44.3,
+            "source_year": 2021
+        },
+        {
+            "id": "1-2-buckwheat-flour",
+            "group": "식물성",
+            "subgroup": "곡물",
+            "item_ko": "메밀가루",
+            "item_en": "Buckwheat flour",
+            "purine_mg": 75.9,
+            "source_year": 2014
+        },
+        {
+            "id": "1-2-wheat-malt",
+            "group": "식물성",
+            "subgroup": "곡물",
+            "item_ko": "밀엿기름",
+            "item_en": "Wheat malt",
+            "purine_mg": 135.4,
+            "source_year": 2021
+        },
+        {
+            "id": "1-3-strawberry",
+            "group": "식물성",
+            "subgroup": "과일",
+            "item_ko": "딸기",
+            "item_en": "Strawberry",
+            "purine_mg": 2.2,
+            "source_year": 2021
+        },
+        {
+            "id": "1-3-banana",
+            "group": "식물성",
+            "subgroup": "과일",
+            "item_ko": "바나나",
+            "item_en": "Banana",
+            "purine_mg": 3.0,
+            "source_year": 2021
+        },
+        {
+            "id": "1-3-cherry-tomato",
+            "group": "식물성",
+            "subgroup": "과일",
+            "item_ko": "방울토마토",
+            "item_en": "Cherry tomato",
+            "purine_mg": 3.1,
+            "source_year": 2021
+        },
+        {
+            "id": "1-3-orange",
+            "group": "식물성",
+            "subgroup": "과일",
+            "item_ko": "오렌지",
+            "item_en": "Orange",
+            "purine_mg": 4.13,
+            "source_year": 2021
+        },
+        {
+            "id": "1-3-pomelo",
+            "group": "식물성",
+            "subgroup": "과일",
+            "item_ko": "포멜로",
+            "item_en": "Pomelo",
+            "purine_mg": 8.4,
+            "source_year": 2021
+        },
+        {
+            "id": "1-3-pineapple",
+            "group": "식물성",
+            "subgroup": "과일",
+            "item_ko": "파인애플",
+            "item_en": "Pineapple",
+            "purine_mg": 11.48,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-konjac",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "곤약",
+            "item_en": "Konnyaku (konjac)",
+            "purine_mg": 0.3,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-lotus-root",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "연근",
+            "item_en": "Lotus root",
+            "purine_mg": 0.3,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-red-pepper",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "홍피망",
+            "item_en": "Red green pepper",
+            "purine_mg": 0.9,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-radish-root",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "무(뿌리)",
+            "item_en": "Japanese radish (root)",
+            "purine_mg": 1.7,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-taro",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "토란",
+            "item_en": "Satoimo (taro)",
+            "purine_mg": 1.9,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-carrot",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "당근",
+            "item_en": "Carrot",
+            "purine_mg": 2.2,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-ginger",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "생강",
+            "item_en": "Ginger",
+            "purine_mg": 2.3,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-onion",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "양파",
+            "item_en": "Onion",
+            "purine_mg": 2.3,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-tomato",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "토마토",
+            "item_en": "Tomato",
+            "purine_mg": 3.1,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-cabbage",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "양배추",
+            "item_en": "Cabbage",
+            "purine_mg": 3.2,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-turnip",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "순무",
+            "item_en": "Turnip",
+            "purine_mg": 3.9,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-lettuce",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "상추",
+            "item_en": "Lettuce",
+            "purine_mg": 4.6,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-burdock",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "우엉",
+            "item_en": "Burdock",
+            "purine_mg": 5.1,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-chili",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "고추",
+            "item_en": "Capsicum (red pepper)",
+            "purine_mg": 5.1,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-potato",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "감자",
+            "item_en": "Potato",
+            "purine_mg": 6.5,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-chinese-cabbage",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "배추",
+            "item_en": "Chinese cabbage",
+            "purine_mg": 7.0,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-cucumber",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "오이",
+            "item_en": "Cucumber",
+            "purine_mg": 9.4,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-bitter-gourd",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "여주",
+            "item_en": "Bitter gourd",
+            "purine_mg": 9.9,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-asparagus-lower",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "아스파라거스 아랫부분",
+            "item_en": "Asparagus Lower part",
+            "purine_mg": 10.2,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-komatsuna-leaf",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "소송채 이파리",
+            "item_en": "Komatsuna Leaf",
+            "purine_mg": 10.6,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-corn",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "옥수수",
+            "item_en": "Corn",
+            "purine_mg": 11.7,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-zucchini",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "주키니호박",
+            "item_en": "Zucchini",
+            "purine_mg": 13.1,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-garlic",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "마늘",
+            "item_en": "Garlic",
+            "purine_mg": 17.0,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-sweet-potato",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "고구마",
+            "item_en": "Sweet potato",
+            "purine_mg": 17.0,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-avocado",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "아보카도",
+            "item_en": "Avocado",
+            "purine_mg": 18.4,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-nira",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "부추",
+            "item_en": "Garlic chives (nira)",
+            "purine_mg": 19.4,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-bamboo-lower",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "죽순 아랫부분",
+            "item_en": "Bamboo shoot Lower part",
+            "purine_mg": 30.8,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-bean-sprouts",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "콩나물",
+            "item_en": "Bean sprouts",
+            "purine_mg": 35.0,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-komatsuna-young",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "소송채 어린잎",
+            "item_en": "Komatsuna Young leaf",
+            "purine_mg": 39.0,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-okura",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "검보(오쿠라)",
+            "item_en": "Gumbo (okura)",
+            "purine_mg": 39.5,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-negi",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "대파",
+            "item_en": "Japanese leek (negi)",
+            "purine_mg": 41.4,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-perilla",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "들깻잎",
+            "item_en": "Perilla frutescens leaves",
+            "purine_mg": 41.4,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-eggplant",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "가지",
+            "item_en": "Eggplant",
+            "purine_mg": 50.7,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-spinach-leaf",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "시금치 잎",
+            "item_en": "Spinach Leaf",
+            "purine_mg": 51.4,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-asparagus-upper",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "아스파라거스 윗부분",
+            "item_en": "Asparagus Upper part",
+            "purine_mg": 55.3,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-pumpkin",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "단호박",
+            "item_en": "Japanese pumpkin",
+            "purine_mg": 56.6,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-cauliflower",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "콜리플라워",
+            "item_en": "Cauliflower",
+            "purine_mg": 57.2,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-sprouts",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "숙주나물(녹두 포함)",
+            "item_en": "Sprouts (with bean)",
+            "purine_mg": 57.3,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-bamboo-upper",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "죽순 윗부분",
+            "item_en": "Bamboo shoot Upper part",
+            "purine_mg": 63.3,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-green-pepper",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "청피망",
+            "item_en": "Green pepper",
+            "purine_mg": 69.2,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-broccoli",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "브로콜리",
+            "item_en": "Broccoli",
+            "purine_mg": 70.0,
+            "source_year": 2021
+        },
+        {
+            "id": "1-4-broccoli-sprout",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "브로콜리 새싹",
+            "item_en": "Broccoli sprout",
+            "purine_mg": 129.6,
+            "source_year": 2014
+        },
+        {
+            "id": "1-4-spinach-young",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "시금치 어린잎",
+            "item_en": "Spinach Young Leaf",
+            "purine_mg": 171.8,
+            "source_year": 2014
+        },
+        {
+            "id": "1-4-parsley",
+            "group": "식물성",
+            "subgroup": "채소",
+            "item_ko": "파슬리",
+            "item_en": "Parsley",
+            "purine_mg": 288.9,
+            "source_year": 2021
+        },
+        {
+            "id": "1-5-peanut",
+            "group": "식물성",
+            "subgroup": "견과",
+            "item_ko": "땅콩",
+            "item_en": "Peanut",
+            "purine_mg": 49.1,
+            "source_year": 2021
+        },
+        {
+            "id": "1-5-cashew",
+            "group": "식물성",
+            "subgroup": "견과",
+            "item_ko": "캐슈",
+            "item_en": "Cashew",
+            "purine_mg": 71.34,
+            "source_year": 2021
+        },
+        {
+            "id": "1-5-pumpkin-seed",
+            "group": "식물성",
+            "subgroup": "견과",
+            "item_ko": "호박씨",
+            "item_en": "Pumpkin seeds",
+            "purine_mg": 60.76,
+            "source_year": 2021
+        },
+        {
+            "id": "1-5-hickory",
+            "group": "식물성",
+            "subgroup": "견과",
+            "item_ko": "히코리넛",
+            "item_en": "Hickory",
+            "purine_mg": 40.44,
+            "source_year": 2021
+        },
+        {
+            "id": "1-5-almond",
+            "group": "식물성",
+            "subgroup": "견과",
+            "item_ko": "아몬드",
+            "item_en": "Almond",
+            "purine_mg": 31.4,
+            "source_year": 2021
+        },
+        {
+            "id": "1-5-walnut",
+            "group": "식물성",
+            "subgroup": "견과",
+            "item_ko": "호두",
+            "item_en": "Walnut",
+            "purine_mg": 19.6,
+            "source_year": 2021
+        },
+        {
+            "id": "2-white-oragekikurage",
+            "group": "버섯/해조",
+            "subgroup": "버섯",
+            "item_ko": "흰 목이버섯",
+            "item_en": "White aragekikurage",
+            "purine_mg": 6.9,
+            "source_year": 2021
+        },
+        {
+            "id": "2-nameko-big",
+            "group": "버섯/해조",
+            "subgroup": "버섯",
+            "item_ko": "맛비늘버섯(대형)",
+            "item_en": "Nameko (big type)",
+            "purine_mg": 9.5,
+            "source_year": 2021
+        },
+        {
+            "id": "2-enoki",
+            "group": "버섯/해조",
+            "subgroup": "버섯",
+            "item_ko": "팽이버섯",
+            "item_en": "Enokidake",
+            "purine_mg": 49.4,
+            "source_year": 2021
+        },
+        {
+            "id": "2-eringi",
+            "group": "버섯/해조",
+            "subgroup": "버섯",
+            "item_ko": "새송이버섯",
+            "item_en": "Eringi",
+            "purine_mg": 13.4,
+            "source_year": 2021
+        },
+        {
+            "id": "2-seaweed-wakame",
+            "group": "버섯/해조",
+            "subgroup": "해조",
+            "item_ko": "미역",
+            "item_en": "Wakame",
+            "purine_mg": 2.0,
+            "source_year": 2021
+        },
+        {
+            "id": "2-seaweed-nori",
+            "group": "버섯/해조",
+            "subgroup": "해조",
+            "item_ko": "김",
+            "item_en": "Nori",
+            "purine_mg": 26.7,
+            "source_year": 2021
+        },
+        {
+            "id": "2-seaweed-kombu",
+            "group": "버섯/해조",
+            "subgroup": "해조",
+            "item_ko": "다시마",
+            "item_en": "Kombu",
+            "purine_mg": 3.7,
+            "source_year": 2021
+        },
+        {
+            "id": "3-1-beef-lean",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "쇠고기(살코기)",
+            "item_en": "Beef (lean)",
+            "purine_mg": 62.4,
+            "source_year": 2021
+        },
+        {
+            "id": "3-1-beef-fat",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "쇠고기(지방)",
+            "item_en": "Beef (fat)",
+            "purine_mg": 42.5,
+            "source_year": 2021
+        },
+        {
+            "id": "3-1-pork-lean",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "돼지고기(살코기)",
+            "item_en": "Pork (lean)",
+            "purine_mg": 69.9,
+            "source_year": 2021
+        },
+        {
+            "id": "3-1-pork-fat",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "돼지고기(지방)",
+            "item_en": "Pork (fat)",
+            "purine_mg": 43.3,
+            "source_year": 2021
+        },
+        {
+            "id": "3-1-chicken-lean",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "닭고기(살코기)",
+            "item_en": "Chicken (lean)",
+            "purine_mg": 61.3,
+            "source_year": 2021
+        },
+        {
+            "id": "3-1-chicken-skin",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "닭고기(피부)",
+            "item_en": "Chicken (skin)",
+            "purine_mg": 36.8,
+            "source_year": 2021
+        },
+        {
+            "id": "3-1-ham",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "햄",
+            "item_en": "Ham",
+            "purine_mg": 52.9,
+            "source_year": 2021
+        },
+        {
+            "id": "3-1-sausage",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "소시지",
+            "item_en": "Sausage",
+            "purine_mg": 63.3,
+            "source_year": 2021
+        },
+        {
+            "id": "3-2-kidney-beef",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "소 신장",
+            "item_en": "Beef kidney",
+            "purine_mg": 147.5,
+            "source_year": 2021
+        },
+        {
+            "id": "3-2-kidney-pork",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "돼지 신장",
+            "item_en": "Pork kidney",
+            "purine_mg": 104.5,
+            "source_year": 2021
+        },
+        {
+            "id": "3-2-heart-beef",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "소 심장",
+            "item_en": "Beef heart",
+            "purine_mg": 135.3,
+            "source_year": 2021
+        },
+        {
+            "id": "3-2-brain-beef",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "소 뇌",
+            "item_en": "Beef brain",
+            "purine_mg": 97.4,
+            "source_year": 2021
+        },
+        {
+            "id": "4-1-salmon",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "연어",
+            "item_en": "Salmon",
+            "purine_mg": 119.1,
+            "source_year": 2021
+        },
+        {
+            "id": "4-1-mackerel",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "고등어",
+            "item_en": "Mackerel",
+            "purine_mg": 206.2,
+            "source_year": 2021
+        },
+        {
+            "id": "4-1-tuna",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "참치",
+            "item_en": "Tuna",
+            "purine_mg": 156.9,
+            "source_year": 2021
+        },
+        {
+            "id": "4-1-sardine",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "정어리",
+            "item_en": "Sardine",
+            "purine_mg": 480.0,
+            "source_year": 2021
+        },
+        {
+            "id": "4-1-trout",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "송어",
+            "item_en": "Trout",
+            "purine_mg": 123.5,
+            "source_year": 2021
+        },
+        {
+            "id": "4-1-herring",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "청어",
+            "item_en": "Herring",
+            "purine_mg": 161.8,
+            "source_year": 2021
+        },
+        {
+            "id": "4-1-white-fish",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "흰살 생선(대구)",
+            "item_en": "White fish (Cod)",
+            "purine_mg": 46.1,
+            "source_year": 2021
+        },
+        {
+            "id": "4-1-flounder",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "넙치(광어)",
+            "item_en": "Flounder",
+            "purine_mg": 63.3,
+            "source_year": 2021
+        },
+        {
+            "id": "4-1-sole",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "가자미",
+            "item_en": "Sole",
+            "purine_mg": 38.9,
+            "source_year": 2021
+        },
+        {
+            "id": "4-2-shrimp",
+            "group": "수산물",
+            "subgroup": "갑각류",
+            "item_ko": "새우",
+            "item_en": "Shrimp",
+            "purine_mg": 120.6,
+            "source_year": 2021
+        },
+        {
+            "id": "4-2-crab",
+            "group": "수산물",
+            "subgroup": "갑각류",
+            "item_ko": "게",
+            "item_en": "Crab",
+            "purine_mg": 155.6,
+            "source_year": 2021
+        },
+        {
+            "id": "4-2-lobster",
+            "group": "수산물",
+            "subgroup": "갑각류",
+            "item_ko": "랍스터(바닷가재)",
+            "item_en": "Lobster",
+            "purine_mg": 119.2,
+            "source_year": 2021
+        },
+        {
+            "id": "4-3-scallop",
+            "group": "수산물",
+            "subgroup": "연체류",
+            "item_ko": "가리비(굴)",
+            "item_en": "Scallop",
+            "purine_mg": 190.0,
+            "source_year": 2021
+        },
+        {
+            "id": "4-3-oyster",
+            "group": "수산물",
+            "subgroup": "연체류",
+            "item_ko": "굴",
+            "item_en": "Oyster",
+            "purine_mg": 239.7,
+            "source_year": 2021
+        },
+        {
+            "id": "4-3-clam",
+            "group": "수산물",
+            "subgroup": "연체류",
+            "item_ko": "조개",
+            "item_en": "Clam",
+            "purine_mg": 172.6,
+            "source_year": 2021
+        },
+        {
+            "id": "4-3-squid",
+            "group": "수산물",
+            "subgroup": "연체류",
+            "item_ko": "오징어",
+            "item_en": "Squid",
+            "purine_mg": 178.1,
+            "source_year": 2021
+        },
+        {
+            "id": "4-3-octopus",
+            "group": "수산물",
+            "subgroup": "연체류",
+            "item_ko": "낙지",
+            "item_en": "Octopus",
+            "purine_mg": 149.7,
+            "source_year": 2021
+        },
+        {
+            "id": "5-1-beef-broth",
+            "group": "양념/보충",
+            "subgroup": "국물/육수",
+            "item_ko": "소고기 육수",
+            "item_en": "Beef broth",
+            "purine_mg": 34.8,
+            "source_year": 2021
+        },
+        {
+            "id": "5-1-chicken-broth",
+            "group": "양념/보충",
+            "subgroup": "국물/육수",
+            "item_ko": "닭고기 육수",
+            "item_en": "Chicken broth",
+            "purine_mg": 28.5,
+            "source_year": 2021
+        },
+        {
+            "id": "5-1-fish-broth",
+            "group": "양념/보충",
+            "subgroup": "국물/육수",
+            "item_ko": "생선 육수",
+            "item_en": "Fish broth",
+            "purine_mg": 47.3,
+            "source_year": 2021
+        },
+        {
+            "id": "5-2-beer",
+            "group": "양념/보충",
+            "subgroup": "음료",
+            "item_ko": "맥주",
+            "item_en": "Beer",
+            "purine_mg": 7.6,
+            "source_year": 2021
+        },
+        {
+            "id": "5-2-wine",
+            "group": "양념/보충",
+            "subgroup": "음료",
+            "item_ko": "와인",
+            "item_en": "Wine",
+            "purine_mg": 0.9,
+            "source_year": 2021
+        },
+        {
+            "id": "5-2-whiskey",
+            "group": "양념/보충",
+            "subgroup": "음료",
+            "item_ko": "위스키",
+            "item_en": "Whiskey",
+            "purine_mg": 0.0,
+            "source_year": 2021
+        },
+        {
+            "id": "5-2-coffee",
+            "group": "양념/보충",
+            "subgroup": "음료",
+            "item_ko": "커피",
+            "item_en": "Coffee",
+            "purine_mg": 12.1,
+            "source_year": 2021
+        },
+        {
+            "id": "5-2-green-tea",
+            "group": "양념/보충",
+            "subgroup": "음료",
+            "item_ko": "녹차",
+            "item_en": "Green tea",
+            "purine_mg": 0.5,
+            "source_year": 2021
+        },
+        {
+            "id": "5-2-black-tea",
+            "group": "양념/보충",
+            "subgroup": "음료",
+            "item_ko": "홍차",
+            "item_en": "Black tea",
+            "purine_mg": 0.5,
+            "source_year": 2021
+        },
+        {
+            "id": "5-2-milk",
+            "group": "양념/보충",
+            "subgroup": "음료",
+            "item_ko": "우유",
+            "item_en": "Milk",
+            "purine_mg": 1.9,
+            "source_year": 2021
+        },
+        {
+            "id": "5-2-orange-juice",
+            "group": "양념/보충",
+            "subgroup": "음료",
+            "item_ko": "오렌지 주스",
+            "item_en": "Orange juice",
+            "purine_mg": 2.2,
+            "source_year": 2021
+        },
+        {
+            "id": "5-3-egg",
+            "group": "양념/보충",
+            "subgroup": "기타",
+            "item_ko": "계란",
+            "item_en": "Egg",
+            "purine_mg": 2.5,
+            "source_year": 2021
+        },
+        {
+            "id": "5-3-cheese",
+            "group": "양념/보충",
+            "subgroup": "기타",
+            "item_ko": "치즈",
+            "item_en": "Cheese",
+            "purine_mg": 5.9,
+            "source_year": 2021
+        },
+        {
+            "id": "5-3-butter",
+            "group": "양념/보충",
+            "subgroup": "기타",
+            "item_ko": "버터",
+            "item_en": "Butter",
+            "purine_mg": 0.0,
+            "source_year": 2021
+        },
+        {
+            "id": "5-3-honey",
+            "group": "양념/보충",
+            "subgroup": "기타",
+            "item_ko": "꿀",
+            "item_en": "Honey",
+            "purine_mg": 0.1,
+            "source_year": 2021
+        },
+        {
+            "id": "2-shiitake-raw",
+            "group": "버섯/해조",
+            "subgroup": "버섯",
+            "item_ko": "생표고버섯",
+            "item_en": "Shiitake (raw)",
+            "purine_mg": 20.8,
+            "source_year": 2021
+        },
+        {
+            "id": "2-shiitake-dried",
+            "group": "버섯/해조",
+            "subgroup": "버섯",
+            "item_ko": "건표고버섯",
+            "item_en": "Shiitake (dried)",
+            "purine_mg": 379.5,
+            "source_year": 2014
+        },
+        {
+            "id": "2-maitake",
+            "group": "버섯/해조",
+            "subgroup": "버섯",
+            "item_ko": "잎새버섯",
+            "item_en": "Maitake",
+            "purine_mg": 98.5,
+            "source_year": 2021
+        },
+        {
+            "id": "2-oyster-mushroom",
+            "group": "버섯/해조",
+            "subgroup": "버섯",
+            "item_ko": "느타리버섯",
+            "item_en": "Hiratake",
+            "purine_mg": 142.3,
+            "source_year": 2021
+        },
+        {
+            "id": "2-dried-seaweed-wakame",
+            "group": "버섯/해조",
+            "subgroup": "해조",
+            "item_ko": "건미역",
+            "item_en": "Wakame (Dried)",
+            "purine_mg": 379.5,
+            "source_year": 2021
+        },
+        {
+            "id": "2-dried-seaweed-nori",
+            "group": "버섯/해조",
+            "subgroup": "해조",
+            "item_ko": "말린 김",
+            "item_en": "Nori (Dried)",
+            "purine_mg": 591.7,
+            "source_year": 2021
+        },
+        {
+            "id": "2-hijiki-dried",
+            "group": "버섯/해조",
+            "subgroup": "해조",
+            "item_ko": "말린 톳",
+            "item_en": "Hijiki (Dried)",
+            "purine_mg": 132.8,
+            "source_year": 2021
+        },
+        {
+            "id": "3-beef-general",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "소고기",
+            "item_en": "Beef",
+            "purine_mg": 85.7,
+            "source_year": 2021
+        },
+        {
+            "id": "3-pork-general",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "돼지고기",
+            "item_en": "Pork",
+            "purine_mg": 76.25,
+            "source_year": 2021
+        },
+        {
+            "id": "3-chicken-general",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "닭",
+            "item_en": "Chicken",
+            "purine_mg": 142.37,
+            "source_year": 2021
+        },
+        {
+            "id": "3-duck-general",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "오리",
+            "item_en": "Duck",
+            "purine_mg": 96.22,
+            "source_year": 2021
+        },
+        {
+            "id": "3-chicken-breast",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "닭가슴살",
+            "item_en": "Chicken breast",
+            "purine_mg": 141.2,
+            "source_year": 2021
+        },
+        {
+            "id": "3-chicken-thigh",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "닭다리",
+            "item_en": "Chicken leg",
+            "purine_mg": 122.9,
+            "source_year": 2021
+        },
+        {
+            "id": "3-chicken-wing",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "닭 날개",
+            "item_en": "Chicken wing",
+            "purine_mg": 137.5,
+            "source_year": 2021
+        },
+        {
+            "id": "3-ham-boneless",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "순살 햄",
+            "item_en": "Boneless ham",
+            "purine_mg": 74.2,
+            "source_year": 2021
+        },
+        {
+            "id": "3-bacon",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "베이컨",
+            "item_en": "Bacon",
+            "purine_mg": 61.8,
+            "source_year": 2021
+        },
+        {
+            "id": "3-prosciutto",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "프로슈토 (파르마 햄)",
+            "item_en": "Prosciutto (Parma ham)",
+            "purine_mg": 138.3,
+            "source_year": 2021
+        },
+        {
+            "id": "3-salami",
+            "group": "동물성",
+            "subgroup": "육류",
+            "item_ko": "살라미",
+            "item_en": "Salami",
+            "purine_mg": 120.4,
+            "source_year": 2021
+        },
+        {
+            "id": "3-beef-liver",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "소 간",
+            "item_en": "Beef liver",
+            "purine_mg": 219.8,
+            "source_year": 2021
+        },
+        {
+            "id": "3-pork-liver",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "돼지 간",
+            "item_en": "Pork liver",
+            "purine_mg": 284.8,
+            "source_year": 2021
+        },
+        {
+            "id": "3-chicken-liver",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "닭 간",
+            "item_en": "Chicken liver",
+            "purine_mg": 312.2,
+            "source_year": 2021
+        },
+        {
+            "id": "3-duck-liver",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "오리 간",
+            "item_en": "Duck liver",
+            "purine_mg": 397.9,
+            "source_year": 2021
+        },
+        {
+            "id": "3-goose-liver",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "거위 간",
+            "item_en": "Goose liver",
+            "purine_mg": 376.9,
+            "source_year": 2021
+        },
+        {
+            "id": "3-beef-kidney",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "소 콩팥",
+            "item_en": "Beef kidney",
+            "purine_mg": 174.2,
+            "source_year": 2021
+        },
+        {
+            "id": "3-pork-kidney",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "돼지 콩팥",
+            "item_en": "Pork kidney",
+            "purine_mg": 195.0,
+            "source_year": 2021
+        },
+        {
+            "id": "3-beef-heart",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "소 염통",
+            "item_en": "Beef heart",
+            "purine_mg": 185.0,
+            "source_year": 2021
+        },
+        {
+            "id": "3-pork-heart",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "돼지 염통",
+            "item_en": "Pork heart",
+            "purine_mg": 119.2,
+            "source_year": 2021
+        },
+        {
+            "id": "3-chicken-heart",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "닭 염통",
+            "item_en": "Chicken heart",
+            "purine_mg": 125.4,
+            "source_year": 2021
+        },
+        {
+            "id": "3-chicken-gizzard",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "닭 근위",
+            "item_en": "Chicken gizzard",
+            "purine_mg": 142.9,
+            "source_year": 2021
+        },
+        {
+            "id": "3-beef-tongue",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "소 혀",
+            "item_en": "Beef tongue",
+            "purine_mg": 90.4,
+            "source_year": 2021
+        },
+        {
+            "id": "3-pork-tongue",
+            "group": "동물성",
+            "subgroup": "내장",
+            "item_ko": "돼지 혀",
+            "item_en": "Pork tongue",
+            "purine_mg": 104.0,
+            "source_year": 2021
+        },
+        {
+            "id": "3-egg",
+            "group": "양념/보충",
+            "subgroup": "유제품",
+            "item_ko": "달걀",
+            "item_en": "Chicken egg",
+            "purine_mg": 0.0,
+            "source_year": 2021
+        },
+        {
+            "id": "3-quail-egg",
+            "group": "양념/보충",
+            "subgroup": "유제품",
+            "item_ko": "메추라기 알",
+            "item_en": "Quail egg",
+            "purine_mg": 0.0,
+            "source_year": 2021
+        },
+        {
+            "id": "3-yogurt",
+            "group": "양념/보충",
+            "subgroup": "유제품",
+            "item_ko": "요거트",
+            "item_en": "Yogurt",
+            "purine_mg": 5.2,
+            "source_year": 2021
+        },
+        {
+            "id": "3-grated-cheese",
+            "group": "양념/보충",
+            "subgroup": "유제품",
+            "item_ko": "간 치즈",
+            "item_en": "Grated cheese",
+            "purine_mg": 12.9,
+            "source_year": 2021
+        },
+        {
+            "id": "4-cod",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "대구",
+            "item_en": "Cod",
+            "purine_mg": 98.0,
+            "source_year": 2021
+        },
+        {
+            "id": "4-eel",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "뱀장어",
+            "item_en": "Japanese eel",
+            "purine_mg": 92.1,
+            "source_year": 2021
+        },
+        {
+            "id": "4-conger-eel",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "붕장어",
+            "item_en": "Conger eel",
+            "purine_mg": 95.4,
+            "source_year": 2021
+        },
+        {
+            "id": "4-sea-bass",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "농어",
+            "item_en": "Japanese seabass",
+            "purine_mg": 119.5,
+            "source_year": 2021
+        },
+        {
+            "id": "4-red-seabream",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "참돔",
+            "item_en": "Red seabream",
+            "purine_mg": 128.9,
+            "source_year": 2021
+        },
+        {
+            "id": "4-swordfish",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "황새치",
+            "item_en": "Swordfish",
+            "purine_mg": 132.1,
+            "source_year": 2021
+        },
+        {
+            "id": "4-ayu",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "은어",
+            "item_en": "Ayu",
+            "purine_mg": 133.1,
+            "source_year": 2021
+        },
+        {
+            "id": "4-spanish-mackerel",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "삼치",
+            "item_en": "Spanish mackerel",
+            "purine_mg": 139.3,
+            "source_year": 2021
+        },
+        {
+            "id": "4-pacific-saury",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "꽁치",
+            "item_en": "Pacific saury",
+            "purine_mg": 154.9,
+            "source_year": 2021
+        },
+        {
+            "id": "4-jack-mackerel",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "전갱이",
+            "item_en": "Jack mackerel",
+            "purine_mg": 165.3,
+            "source_year": 2021
+        },
+        {
+            "id": "4-rainbow-trout",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "무지개송어",
+            "item_en": "Rainbow trout",
+            "purine_mg": 180.9,
+            "source_year": 2021
+        },
+        {
+            "id": "4-bonito",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "가다랑어",
+            "item_en": "Bonito",
+            "purine_mg": 211.4,
+            "source_year": 2021
+        },
+        {
+            "id": "4-anchovy",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "멸치",
+            "item_en": "Anchovy",
+            "purine_mg": 303.9,
+            "source_year": 2021
+        },
+        {
+            "id": "4-cutlassfish",
+            "group": "수산물",
+            "subgroup": "생선",
+            "item_ko": "갈치",
+            "item_en": "Cutlassfish (hairtail)",
+            "purine_mg": 385.4,
+            "source_year": 2021
+        },
+        {
+            "id": "4-shrimp-botan",
+            "group": "수산물",
+            "subgroup": "갑각류",
+            "item_ko": "도화새우",
+            "item_en": "Botan shrimp",
+            "purine_mg": 53.4,
+            "source_year": 2021
+        },
+        {
+            "id": "4-spiny-lobster",
+            "group": "수산물",
+            "subgroup": "갑각류",
+            "item_ko": "닭새우",
+            "item_en": "Spiny lobster",
+            "purine_mg": 102.1,
+            "source_year": 2021
+        },
+        {
+            "id": "4-shiba-shrimp",
+            "group": "수산물",
+            "subgroup": "갑각류",
+            "item_ko": "중하",
+            "item_en": "Shiba shrimp",
+            "purine_mg": 144.2,
+            "source_year": 2021
+        },
+        {
+            "id": "4-kuruma-shrimp",
+            "group": "수산물",
+            "subgroup": "갑각류",
+            "item_ko": "보리새우",
+            "item_en": "Kuruma shrimp",
+            "purine_mg": 195.3,
+            "source_year": 2021
+        },
+        {
+            "id": "4-oriental-shrimp",
+            "group": "수산물",
+            "subgroup": "갑각류",
+            "item_ko": "대하",
+            "item_en": "Oriental shrimp",
+            "purine_mg": 273.2,
+            "source_year": 2021
+        },
+        {
+            "id": "4-snow-crab",
+            "group": "수산물",
+            "subgroup": "갑각류",
+            "item_ko": "대게",
+            "item_en": "Snow crab",
+            "purine_mg": 136.4,
+            "source_year": 2021
+        },
+        {
+            "id": "4-red-king-crab",
+            "group": "수산물",
+            "subgroup": "갑각류",
+            "item_ko": "(붉은)왕게",
+            "item_en": "Red king crab",
+            "purine_mg": 99.6,
+            "source_year": 2021
+        },
+        {
+            "id": "4-common-clam",
+            "group": "수산물",
+            "subgroup": "연체류",
+            "item_ko": "백합",
+            "item_en": "Common orient clam",
+            "purine_mg": 104.5,
+            "source_year": 2021
+        },
+        {
+            "id": "4-octopus-general",
+            "group": "수산물",
+            "subgroup": "연체류",
+            "item_ko": "문어",
+            "item_en": "Octopus",
+            "purine_mg": 137.3,
+            "source_year": 2021
+        },
+        {
+            "id": "4-sea-urchin",
+            "group": "수산물",
+            "subgroup": "연체류",
+            "item_ko": "성게",
+            "item_en": "Sea Urchin",
+            "purine_mg": 137.3,
+            "source_year": 2021
+        },
+        {
+            "id": "4-sea-cucumber",
+            "group": "수산물",
+            "subgroup": "연체류",
+            "item_ko": "해삼",
+            "item_en": "Sea cucumber",
+            "purine_mg": 5.5,
+            "source_year": 2021
+        },
+        {
+            "id": "4-scallop-japanese",
+            "group": "수산물",
+            "subgroup": "연체류",
+            "item_ko": "가리비",
+            "item_en": "Japanese scallop",
+            "purine_mg": 76.5,
+            "source_year": 2021
+        },
+        {
+            "id": "4-flying-squid",
+            "group": "수산물",
+            "subgroup": "연체류",
+            "item_ko": "살오징어",
+            "item_en": "Japanese flying squid",
+            "purine_mg": 186.8,
+            "source_year": 2021
+        },
+        {
+            "id": "5-soy-sauce-dark",
+            "group": "양념/보충",
+            "subgroup": "양념/소스",
+            "item_ko": "진간장(노추)",
+            "item_en": "Soy sauce Dark color",
+            "purine_mg": 45.2,
+            "source_year": 2021
+        },
+        {
+            "id": "5-soy-sauce-light",
+            "group": "양념/보충",
+            "subgroup": "양념/소스",
+            "item_ko": "연간장",
+            "item_en": "Soy sauce Light color",
+            "purine_mg": 55.3,
+            "source_year": 2021
+        },
+        {
+            "id": "5-white-miso",
+            "group": "양념/보충",
+            "subgroup": "양념/소스",
+            "item_ko": "백된장(하얀미소)",
+            "item_en": "Miso White miso",
+            "purine_mg": 48.8,
+            "source_year": 2021
+        },
+        {
+            "id": "5-red-miso",
+            "group": "양념/보충",
+            "subgroup": "양념/소스",
+            "item_ko": "대두된장(아카미소)",
+            "item_en": "Miso Red miso",
+            "purine_mg": 63.5,
+            "source_year": 2021
+        },
+        {
+            "id": "5-fish-sauce",
+            "group": "양념/보충",
+            "subgroup": "양념/소스",
+            "item_ko": "피시소스",
+            "item_en": "Fish sauce (Nampla)",
+            "purine_mg": 93.1,
+            "source_year": 2021
+        },
+        {
+            "id": "5-oyster-sauce",
+            "group": "양념/보충",
+            "subgroup": "양념/소스",
+            "item_ko": "굴소스",
+            "item_en": "Oyster sauce",
+            "purine_mg": 134.4,
+            "source_year": 2021
+        },
+        {
+            "id": "5-sake-lees",
+            "group": "양념/보충",
+            "subgroup": "양념/소스",
+            "item_ko": "술지게미",
+            "item_en": "Sake lees",
+            "purine_mg": 89.2,
+            "source_year": 2021
+        },
+        {
+            "id": "5-rice-bran",
+            "group": "양념/보충",
+            "subgroup": "양념/소스",
+            "item_ko": "쌀겨",
+            "item_en": "Rice bran",
+            "purine_mg": 100.2,
+            "source_year": 2021
+        },
+        {
+            "id": "5-beer-yeast",
+            "group": "양념/보충",
+            "subgroup": "보충제",
+            "item_ko": "맥주 효모",
+            "item_en": "Beer yeast",
+            "purine_mg": 2995.7,
+            "source_year": 2021
+        },
+        {
+            "id": "5-spirulina",
+            "group": "양념/보충",
+            "subgroup": "보충제",
+            "item_ko": "스피룰리나",
+            "item_en": "Spirulina",
+            "purine_mg": 1076.8,
+            "source_year": 2021
+        },
+        {
+            "id": "5-chlorella",
+            "group": "양념/보충",
+            "subgroup": "보충제",
+            "item_ko": "클로렐라",
+            "item_en": "Chlorella",
+            "purine_mg": 3182.7,
+            "source_year": 2021
+        },
+        {
+            "id": "5-yeast-dried",
+            "group": "양념/보충",
+            "subgroup": "보충제",
+            "item_ko": "이스트/효모(말린)",
+            "item_en": "Yeast (dried)",
+            "purine_mg": 847.1,
+            "source_year": 2021
+        },
+        {
+            "id": "5-euglena-dried",
+            "group": "양념/보충",
+            "subgroup": "보충제",
+            "item_ko": "유글레나(말린)",
+            "item_en": "Euglena (dried)",
+            "purine_mg": 379.9,
+            "source_year": 2021
+        },
+        {
+            "id": "5-royal-jelly",
+            "group": "양념/보충",
+            "subgroup": "보충제",
+            "item_ko": "로열젤리",
+            "item_en": "Royal jelly",
+            "purine_mg": 403.4,
+            "source_year": 2021
+        }
+    ]
 }

@@ -7,7 +7,8 @@
       "Bash(find . -type f ( -name \"*.env*\" -o -name \"*secret*\" -o -name \"*key*\" -o -name \"*token*\" -o -name \"*password*\" -o -name \"credentials*\" ))",
       "Bash(cat \"F:\\git_repository\\gout-food-checker\\.gitignore\")",
       "WebFetch(domain:m.blog.naver.com)",
-      "WebFetch(domain:blog.naver.com)"
+      "WebFetch(domain:blog.naver.com)",
+      "mcp__ide__executeCode"
     ],
     "deny": [],
     "ask": []
