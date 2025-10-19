@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /node_modules/
+Disallow: /dist/
+
+Sitemap: https://gout-food-checker.netlify.app/sitemap.xml
+
+# Crawler delay
+Crawl-delay: 1

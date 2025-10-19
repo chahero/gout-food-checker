@@ -12,7 +12,8 @@
       "WebFetch(domain:www.jstage.jst.go.jp)",
       "Bash(python compare_sources.py)",
       "Bash(python analyze_sources.py)",
-      "Bash(python create_final_db.py)"
+      "Bash(python create_final_db.py)",
+      "WebFetch(domain:gout-food-checker.netlify.app)"
     ],
     "deny": [],
     "ask": []

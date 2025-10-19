@@ -1,0 +1,38 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0b1020;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#12182a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bgGradient)"/>
+
+  <!-- Title -->
+  <text x="600" y="150" font-size="72" font-weight="bold" text-anchor="middle" fill="#eef2ff" font-family="Arial, sans-serif">
+    Gout Food Checker
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="240" font-size="42" text-anchor="middle" fill="#a9b4c7" font-family="Arial, sans-serif">
+    통풍 음식 검색기
+  </text>
+
+  <!-- Description -->
+  <text x="600" y="320" font-size="32" text-anchor="middle" fill="#a9b4c7" font-family="Arial, sans-serif">
+    퓨린 함량 확인 데이터베이스
+  </text>
+
+  <!-- Icon/Badge -->
+  <circle cx="150" cy="500" r="80" fill="rgba(147,197,253,0.2)" stroke="#93c5fd" stroke-width="2"/>
+  <text x="150" y="520" font-size="48" text-anchor="middle" fill="#93c5fd" font-family="Arial, sans-serif">📊</text>
+
+  <circle cx="1050" cy="500" r="80" fill="rgba(251,113,133,0.2)" stroke="#fb7185" stroke-width="2"/>
+  <text x="1050" y="520" font-size="48" text-anchor="middle" fill="#fb7185" font-family="Arial, sans-serif">🥗</text>
+
+  <!-- Footer info -->
+  <text x="600" y="600" font-size="24" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif">
+    2021 Hou &amp; 2014 Kaneko 기준 • 354개 음식 데이터베이스
+  </text>
+</svg>
