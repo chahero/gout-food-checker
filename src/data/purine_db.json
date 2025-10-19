@@ -101,6 +101,65 @@
     {"id":"2-white-oragekikurage","group":"버섯/해조","subgroup":"버섯","item_ko":"흰 목이버섯","item_en":"White aragekikurage","purine_mg":6.90,"source_year":2021},
     {"id":"2-nameko-big","group":"버섯/해조","subgroup":"버섯","item_ko":"맛비늘버섯(대형)","item_en":"Nameko (big type)","purine_mg":9.50,"source_year":2021},
     {"id":"2-enoki","group":"버섯/해조","subgroup":"버섯","item_ko":"팽이버섯","item_en":"Enokidake","purine_mg":49.40,"source_year":2021},
-    {"id":"2-eringi","group":"버섯/해조","subgroup":"버섯","item_ko":"새송이버섯","item_en":"Eringi","purine_mg":13.40,"source_year":2021}
+    {"id":"2-eringi","group":"버섯/해조","subgroup":"버섯","item_ko":"새송이버섯","item_en":"Eringi","purine_mg":13.40,"source_year":2021},
+
+    {"id":"2-seaweed-wakame","group":"버섯/해조","subgroup":"해조","item_ko":"미역","item_en":"Wakame","purine_mg":2.00,"source_year":2021},
+    {"id":"2-seaweed-nori","group":"버섯/해조","subgroup":"해조","item_ko":"김","item_en":"Nori","purine_mg":26.70,"source_year":2021},
+    {"id":"2-seaweed-kombu","group":"버섯/해조","subgroup":"해조","item_ko":"다시마","item_en":"Kombu","purine_mg":3.70,"source_year":2021},
+
+    {"id":"3-1-beef-lean","group":"동물성","subgroup":"육류","item_ko":"쇠고기(살코기)","item_en":"Beef (lean)","purine_mg":62.40,"source_year":2021},
+    {"id":"3-1-beef-fat","group":"동물성","subgroup":"육류","item_ko":"쇠고기(지방)","item_en":"Beef (fat)","purine_mg":42.50,"source_year":2021},
+    {"id":"3-1-pork-lean","group":"동물성","subgroup":"육류","item_ko":"돼지고기(살코기)","item_en":"Pork (lean)","purine_mg":69.90,"source_year":2021},
+    {"id":"3-1-pork-fat","group":"동물성","subgroup":"육류","item_ko":"돼지고기(지방)","item_en":"Pork (fat)","purine_mg":43.30,"source_year":2021},
+    {"id":"3-1-chicken-lean","group":"동물성","subgroup":"육류","item_ko":"닭고기(살코기)","item_en":"Chicken (lean)","purine_mg":61.30,"source_year":2021},
+    {"id":"3-1-chicken-skin","group":"동물성","subgroup":"육류","item_ko":"닭고기(피부)","item_en":"Chicken (skin)","purine_mg":36.80,"source_year":2021},
+    {"id":"3-1-ham","group":"동물성","subgroup":"육류","item_ko":"햄","item_en":"Ham","purine_mg":52.90,"source_year":2021},
+    {"id":"3-1-sausage","group":"동물성","subgroup":"육류","item_ko":"소시지","item_en":"Sausage","purine_mg":63.30,"source_year":2021},
+
+    {"id":"3-2-liver-beef","group":"동물성","subgroup":"내장","item_ko":"소 간","item_en":"Beef liver","purine_mg":190.60,"source_year":2021},
+    {"id":"3-2-liver-pork","group":"동물성","subgroup":"내장","item_ko":"돼지 간","item_en":"Pork liver","purine_mg":182.70,"source_year":2021},
+    {"id":"3-2-liver-chicken","group":"동물성","subgroup":"내장","item_ko":"닭 간","item_en":"Chicken liver","purine_mg":191.10,"source_year":2021},
+    {"id":"3-2-kidney-beef","group":"동물성","subgroup":"내장","item_ko":"소 신장","item_en":"Beef kidney","purine_mg":147.50,"source_year":2021},
+    {"id":"3-2-kidney-pork","group":"동물성","subgroup":"내장","item_ko":"돼지 신장","item_en":"Pork kidney","purine_mg":104.50,"source_year":2021},
+    {"id":"3-2-heart-beef","group":"동물성","subgroup":"내장","item_ko":"소 심장","item_en":"Beef heart","purine_mg":135.30,"source_year":2021},
+    {"id":"3-2-brain-beef","group":"동물성","subgroup":"내장","item_ko":"소 뇌","item_en":"Beef brain","purine_mg":97.40,"source_year":2021},
+
+    {"id":"4-1-salmon","group":"수산물","subgroup":"생선","item_ko":"연어","item_en":"Salmon","purine_mg":119.10,"source_year":2021},
+    {"id":"4-1-mackerel","group":"수산물","subgroup":"생선","item_ko":"고등어","item_en":"Mackerel","purine_mg":206.20,"source_year":2021},
+    {"id":"4-1-tuna","group":"수산물","subgroup":"생선","item_ko":"참치","item_en":"Tuna","purine_mg":156.90,"source_year":2021},
+    {"id":"4-1-sardine","group":"수산물","subgroup":"생선","item_ko":"정어리","item_en":"Sardine","purine_mg":480.00,"source_year":2021},
+    {"id":"4-1-trout","group":"수산물","subgroup":"생선","item_ko":"송어","item_en":"Trout","purine_mg":123.50,"source_year":2021},
+    {"id":"4-1-herring","group":"수산물","subgroup":"생선","item_ko":"청어","item_en":"Herring","purine_mg":161.80,"source_year":2021},
+    {"id":"4-1-white-fish","group":"수산물","subgroup":"생선","item_ko":"흰살 생선(대구)","item_en":"White fish (Cod)","purine_mg":46.10,"source_year":2021},
+    {"id":"4-1-flounder","group":"수산물","subgroup":"생선","item_ko":"넙치(광어)","item_en":"Flounder","purine_mg":63.30,"source_year":2021},
+    {"id":"4-1-sole","group":"수산물","subgroup":"생선","item_ko":"가자미","item_en":"Sole","purine_mg":38.90,"source_year":2021},
+
+    {"id":"4-2-shrimp","group":"수산물","subgroup":"갑각류","item_ko":"새우","item_en":"Shrimp","purine_mg":120.60,"source_year":2021},
+    {"id":"4-2-crab","group":"수산물","subgroup":"갑각류","item_ko":"게","item_en":"Crab","purine_mg":155.60,"source_year":2021},
+    {"id":"4-2-lobster","group":"수산물","subgroup":"갑각류","item_ko":"랍스터(바닷가재)","item_en":"Lobster","purine_mg":119.20,"source_year":2021},
+
+    {"id":"4-3-scallop","group":"수산물","subgroup":"연체류","item_ko":"가리비(굴)","item_en":"Scallop","purine_mg":190.00,"source_year":2021},
+    {"id":"4-3-oyster","group":"수산물","subgroup":"연체류","item_ko":"굴","item_en":"Oyster","purine_mg":239.70,"source_year":2021},
+    {"id":"4-3-clam","group":"수산물","subgroup":"연체류","item_ko":"조개","item_en":"Clam","purine_mg":172.60,"source_year":2021},
+    {"id":"4-3-squid","group":"수산물","subgroup":"연체류","item_ko":"오징어","item_en":"Squid","purine_mg":178.10,"source_year":2021},
+    {"id":"4-3-octopus","group":"수산물","subgroup":"연체류","item_ko":"낙지","item_en":"Octopus","purine_mg":149.70,"source_year":2021},
+
+    {"id":"5-1-beef-broth","group":"양념/보충","subgroup":"국물/육수","item_ko":"소고기 육수","item_en":"Beef broth","purine_mg":34.80,"source_year":2021},
+    {"id":"5-1-chicken-broth","group":"양념/보충","subgroup":"국물/육수","item_ko":"닭고기 육수","item_en":"Chicken broth","purine_mg":28.50,"source_year":2021},
+    {"id":"5-1-fish-broth","group":"양념/보충","subgroup":"국물/육수","item_ko":"생선 육수","item_en":"Fish broth","purine_mg":47.30,"source_year":2021},
+
+    {"id":"5-2-beer","group":"양념/보충","subgroup":"음료","item_ko":"맥주","item_en":"Beer","purine_mg":7.60,"source_year":2021},
+    {"id":"5-2-wine","group":"양념/보충","subgroup":"음료","item_ko":"와인","item_en":"Wine","purine_mg":0.90,"source_year":2021},
+    {"id":"5-2-whiskey","group":"양념/보충","subgroup":"음료","item_ko":"위스키","item_en":"Whiskey","purine_mg":0.00,"source_year":2021},
+    {"id":"5-2-coffee","group":"양념/보충","subgroup":"음료","item_ko":"커피","item_en":"Coffee","purine_mg":12.10,"source_year":2021},
+    {"id":"5-2-green-tea","group":"양념/보충","subgroup":"음료","item_ko":"녹차","item_en":"Green tea","purine_mg":0.50,"source_year":2021},
+    {"id":"5-2-black-tea","group":"양념/보충","subgroup":"음료","item_ko":"홍차","item_en":"Black tea","purine_mg":0.50,"source_year":2021},
+    {"id":"5-2-milk","group":"양념/보충","subgroup":"음료","item_ko":"우유","item_en":"Milk","purine_mg":1.90,"source_year":2021},
+    {"id":"5-2-orange-juice","group":"양념/보충","subgroup":"음료","item_ko":"오렌지 주스","item_en":"Orange juice","purine_mg":2.20,"source_year":2021},
+
+    {"id":"5-3-egg","group":"양념/보충","subgroup":"기타","item_ko":"계란","item_en":"Egg","purine_mg":2.50,"source_year":2021},
+    {"id":"5-3-cheese","group":"양념/보충","subgroup":"기타","item_ko":"치즈","item_en":"Cheese","purine_mg":5.90,"source_year":2021},
+    {"id":"5-3-butter","group":"양념/보충","subgroup":"기타","item_ko":"버터","item_en":"Butter","purine_mg":0.00,"source_year":2021},
+    {"id":"5-3-honey","group":"양념/보충","subgroup":"기타","item_ko":"꿀","item_en":"Honey","purine_mg":0.10,"source_year":2021}
   ]
 }
