@@ -16,7 +16,9 @@
       "WebFetch(domain:gout-food-checker.netlify.app)",
       "Bash(git add -A)",
       "Bash(git commit -m \"refactor: Revert to original table layout without react-window virtual scrolling\n\n- Removed react-window dependency for cleaner UX\n- Restored traditional table view with all items\n- Kept router structure and FAQ/Info page\n- Bundle size reduced (react-window removed)\n\nUsers prefer natural scrolling experience over virtual scrolling optimization.\nPerformance still acceptable with 354 items on modern browsers.\n\n🤖 Generated with Claude Code\n\nCo-Authored-By: Claude <noreply@anthropic.com>\")",
-      "Bash(git push)"
+      "Bash(git push)",
+      "Bash(dir \"F:\\git_repository\\gout-food-checker\" /s /b /ad)",
+      "Bash(dir \"F:\\git_repository\\gout-food-checker\\src\")"
     ],
     "deny": [],
     "ask": []
