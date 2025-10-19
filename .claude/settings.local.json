@@ -8,7 +8,11 @@
       "Bash(cat \"F:\\git_repository\\gout-food-checker\\.gitignore\")",
       "WebFetch(domain:m.blog.naver.com)",
       "WebFetch(domain:blog.naver.com)",
-      "mcp__ide__executeCode"
+      "mcp__ide__executeCode",
+      "WebFetch(domain:www.jstage.jst.go.jp)",
+      "Bash(python compare_sources.py)",
+      "Bash(python analyze_sources.py)",
+      "Bash(python create_final_db.py)"
     ],
     "deny": [],
     "ask": []
